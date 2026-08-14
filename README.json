@@ -126,7 +126,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T17:36:08Z",
+            "last_commit": "2026-08-13T20:49:05Z",
             "owner": "wagtail",
             "repo": "wagtail-autocomplete",
             "stars": 130
@@ -312,7 +312,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-24T08:16:38Z",
+            "last_commit": "2026-08-13T15:52:27Z",
             "owner": "wagtail-nest",
             "repo": "wagtail-personalisation",
             "stars": 130
@@ -380,7 +380,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-06T17:58:38Z",
+            "last_commit": "2026-08-13T15:34:42Z",
             "owner": "wagtail",
             "repo": "wagtail-localize",
             "stars": 254
@@ -813,7 +813,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T13:40:45Z",
+            "last_commit": "2026-08-13T18:00:52Z",
             "owner": "numerique-gouv",
             "repo": "sites-conformes",
             "stars": 66
@@ -841,7 +841,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T03:57:06Z",
+            "last_commit": "2026-08-14T05:29:34Z",
             "owner": "wagtail",
             "repo": "cookiecutter-wagtail-package",
             "stars": 23
@@ -878,7 +878,7 @@
             "last_commit": "2026-08-09T23:42:59Z",
             "owner": "wagtail",
             "repo": "news-template",
-            "stars": 183
+            "stars": 184
           }
         },
         {
@@ -962,7 +962,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T04:10:42Z",
+            "last_commit": "2026-08-14T04:07:23Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1080
@@ -976,7 +976,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T22:04:49Z",
+            "last_commit": "2026-08-13T13:05:38Z",
             "owner": "cfpb",
             "repo": "consumerfinance.gov",
             "stars": 332
@@ -993,7 +993,7 @@
             "last_commit": "2026-07-31T18:24:59Z",
             "owner": "outreachy",
             "repo": "website",
-            "stars": 300
+            "stars": 301
           }
         },
         {
@@ -1004,7 +1004,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T17:03:30Z",
+            "last_commit": "2026-08-13T18:36:09Z",
             "owner": "fecgov",
             "repo": "fec-cms",
             "stars": 107
@@ -1046,7 +1046,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T00:29:29Z",
+            "last_commit": "2026-08-14T01:43:29Z",
             "owner": "freedomofpress",
             "repo": "securedrop.org",
             "stars": 45
@@ -1060,7 +1060,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T14:05:19Z",
+            "last_commit": "2026-08-14T05:23:30Z",
             "owner": "wagtail",
             "repo": "guide",
             "stars": 36
@@ -1088,7 +1088,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T14:24:08Z",
+            "last_commit": "2026-08-13T16:25:51Z",
             "owner": "torchbox",
             "repo": "torchbox.com",
             "stars": 9
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:19:07.434Z",
+    "last_updated": "2026-08-14T05:44:04.156Z",
     "original_repository": "wagtail/awesome-wagtail",
     "original_repository_sha": "70a72b5b3529ed8bf4b88de2e9b64b7f7ef55d86",
     "enhanced_repository": "enhansome/enhansome-wagtail",
