@@ -841,7 +841,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T05:29:34Z",
+            "last_commit": "2026-08-14T05:46:24Z",
             "owner": "wagtail",
             "repo": "cookiecutter-wagtail-package",
             "stars": 23
@@ -878,7 +878,7 @@
             "last_commit": "2026-08-09T23:42:59Z",
             "owner": "wagtail",
             "repo": "news-template",
-            "stars": 184
+            "stars": 185
           }
         },
         {
@@ -962,10 +962,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T04:07:23Z",
+            "last_commit": "2026-08-15T02:50:10Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
-            "stars": 1080
+            "stars": 1081
           }
         },
         {
@@ -976,7 +976,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T13:05:38Z",
+            "last_commit": "2026-08-14T22:47:32Z",
             "owner": "cfpb",
             "repo": "consumerfinance.gov",
             "stars": 332
@@ -1046,7 +1046,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T01:43:29Z",
+            "last_commit": "2026-08-14T15:00:53Z",
             "owner": "freedomofpress",
             "repo": "securedrop.org",
             "stars": 45
@@ -1060,7 +1060,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T05:23:30Z",
+            "last_commit": "2026-08-14T11:00:41Z",
             "owner": "wagtail",
             "repo": "guide",
             "stars": 36
@@ -1088,7 +1088,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T16:25:51Z",
+            "last_commit": "2026-08-14T08:55:09Z",
             "owner": "torchbox",
             "repo": "torchbox.com",
             "stars": 9
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:44:04.156Z",
+    "last_updated": "2026-08-15T04:44:51.345Z",
     "original_repository": "wagtail/awesome-wagtail",
     "original_repository_sha": "70a72b5b3529ed8bf4b88de2e9b64b7f7ef55d86",
     "enhanced_repository": "enhansome/enhansome-wagtail",
