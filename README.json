@@ -962,7 +962,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T02:50:10Z",
+            "last_commit": "2026-08-16T02:58:09Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1081
@@ -993,7 +993,7 @@
             "last_commit": "2026-07-31T18:24:59Z",
             "owner": "outreachy",
             "repo": "website",
-            "stars": 301
+            "stars": 302
           }
         },
         {
@@ -1060,7 +1060,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T11:00:41Z",
+            "last_commit": "2026-08-16T02:18:42Z",
             "owner": "wagtail",
             "repo": "guide",
             "stars": 36
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:44:51.345Z",
+    "last_updated": "2026-08-16T04:48:01.373Z",
     "original_repository": "wagtail/awesome-wagtail",
     "original_repository_sha": "70a72b5b3529ed8bf4b88de2e9b64b7f7ef55d86",
     "enhanced_repository": "enhansome/enhansome-wagtail",
