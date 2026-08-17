@@ -126,7 +126,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T20:49:05Z",
+            "last_commit": "2026-08-16T14:11:10Z",
             "owner": "wagtail",
             "repo": "wagtail-autocomplete",
             "stars": 130
@@ -799,7 +799,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T23:13:05Z",
+            "last_commit": "2026-08-16T23:01:27Z",
             "owner": "Frojd",
             "repo": "Wagtail-Pipit",
             "stars": 257
@@ -875,7 +875,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T23:42:59Z",
+            "last_commit": "2026-08-16T20:24:35Z",
             "owner": "wagtail",
             "repo": "news-template",
             "stars": 185
@@ -962,7 +962,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T02:58:09Z",
+            "last_commit": "2026-08-17T02:59:41Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1081
@@ -1046,7 +1046,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T15:00:53Z",
+            "last_commit": "2026-08-16T15:05:43Z",
             "owner": "freedomofpress",
             "repo": "securedrop.org",
             "stars": 45
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:48:01.373Z",
+    "last_updated": "2026-08-17T04:55:47.640Z",
     "original_repository": "wagtail/awesome-wagtail",
     "original_repository_sha": "70a72b5b3529ed8bf4b88de2e9b64b7f7ef55d86",
     "enhanced_repository": "enhansome/enhansome-wagtail",
