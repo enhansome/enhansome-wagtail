@@ -371,7 +371,7 @@
                 "archived": false,
                 "id": 56688576,
                 "language": "Python",
-                "last_commit": "2026-08-11T12:31:32Z",
+                "last_commit": "2026-08-19T20:42:56Z",
                 "owner": "torchbox",
                 "repo": "wagtailmedia",
                 "stars": 250
@@ -408,7 +408,7 @@
                 "archived": false,
                 "id": 179706908,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:54:05Z",
+                "last_commit": "2026-08-19T16:38:35Z",
                 "owner": "wagtail",
                 "repo": "wagtail-localize",
                 "stars": 254
@@ -1042,7 +1042,7 @@
             "archived": false,
             "id": 81445419,
             "language": "Python",
-            "last_commit": "2026-08-19T07:24:13Z",
+            "last_commit": "2026-08-20T02:54:38Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1081
@@ -1057,7 +1057,7 @@
             "archived": false,
             "id": 18852566,
             "language": "Python",
-            "last_commit": "2026-08-18T17:47:28Z",
+            "last_commit": "2026-08-20T04:32:34Z",
             "owner": "cfpb",
             "repo": "consumerfinance.gov",
             "stars": 332
@@ -1072,7 +1072,7 @@
             "archived": false,
             "id": 99189495,
             "language": "HTML",
-            "last_commit": "2026-07-31T18:24:59Z",
+            "last_commit": "2026-08-19T17:30:13Z",
             "owner": "outreachy",
             "repo": "website",
             "stars": 302
@@ -1087,7 +1087,7 @@
             "archived": false,
             "id": 40841283,
             "language": "Python",
-            "last_commit": "2026-08-18T18:45:21Z",
+            "last_commit": "2026-08-19T23:30:49Z",
             "owner": "fecgov",
             "repo": "fec-cms",
             "stars": 107
@@ -1132,7 +1132,7 @@
             "archived": false,
             "id": 99369601,
             "language": "Python",
-            "last_commit": "2026-08-18T19:48:56Z",
+            "last_commit": "2026-08-19T17:23:12Z",
             "owner": "freedomofpress",
             "repo": "securedrop.org",
             "stars": 45
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:00:17.469Z",
+    "last_updated": "2026-08-20T04:49:59.037Z",
     "original_repository": "wagtail/awesome-wagtail",
     "original_repository_id": 63629422,
     "original_repository_sha": "70a72b5b3529ed8bf4b88de2e9b64b7f7ef55d86",
