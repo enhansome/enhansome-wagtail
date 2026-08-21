@@ -106,7 +106,7 @@
                 "last_commit": "2026-07-06T21:02:37Z",
                 "owner": "torchbox",
                 "repo": "wagtail-markdown",
-                "stars": 220
+                "stars": 218
               }
             },
             {
@@ -371,7 +371,7 @@
                 "archived": false,
                 "id": 56688576,
                 "language": "Python",
-                "last_commit": "2026-08-19T20:42:56Z",
+                "last_commit": "2026-08-20T16:01:57Z",
                 "owner": "torchbox",
                 "repo": "wagtailmedia",
                 "stars": 250
@@ -408,7 +408,7 @@
                 "archived": false,
                 "id": 179706908,
                 "language": "Python",
-                "last_commit": "2026-08-19T16:38:35Z",
+                "last_commit": "2026-08-20T21:22:45Z",
                 "owner": "wagtail",
                 "repo": "wagtail-localize",
                 "stars": 254
@@ -861,7 +861,7 @@
                 "archived": false,
                 "id": 31060441,
                 "language": "Python",
-                "last_commit": "2026-08-19T03:45:06Z",
+                "last_commit": "2026-08-20T18:46:31Z",
                 "owner": "Frojd",
                 "repo": "Wagtail-Pipit",
                 "stars": 257
@@ -876,10 +876,10 @@
                 "archived": false,
                 "id": 587313394,
                 "language": "Python",
-                "last_commit": "2026-08-18T14:15:36Z",
+                "last_commit": "2026-08-20T18:46:29Z",
                 "owner": "numerique-gouv",
                 "repo": "sites-conformes",
-                "stars": 66
+                "stars": 67
               }
             },
             {
@@ -891,7 +891,7 @@
                 "archived": false,
                 "id": 252283306,
                 "language": "Python",
-                "last_commit": "2026-08-11T23:53:25Z",
+                "last_commit": "2026-08-20T17:56:37Z",
                 "owner": "engineervix",
                 "repo": "cookiecutter-wagtail-vix",
                 "stars": 40
@@ -943,7 +943,7 @@
                 "archived": false,
                 "id": 791250862,
                 "language": "Python",
-                "last_commit": "2026-08-16T20:24:35Z",
+                "last_commit": "2026-08-20T17:29:20Z",
                 "owner": "wagtail",
                 "repo": "news-template",
                 "stars": 185
@@ -1042,7 +1042,7 @@
             "archived": false,
             "id": 81445419,
             "language": "Python",
-            "last_commit": "2026-08-20T02:54:38Z",
+            "last_commit": "2026-08-21T03:00:46Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1081
@@ -1057,7 +1057,7 @@
             "archived": false,
             "id": 18852566,
             "language": "Python",
-            "last_commit": "2026-08-20T04:32:34Z",
+            "last_commit": "2026-08-20T13:59:27Z",
             "owner": "cfpb",
             "repo": "consumerfinance.gov",
             "stars": 332
@@ -1087,7 +1087,7 @@
             "archived": false,
             "id": 40841283,
             "language": "Python",
-            "last_commit": "2026-08-19T23:30:49Z",
+            "last_commit": "2026-08-20T16:12:30Z",
             "owner": "fecgov",
             "repo": "fec-cms",
             "stars": 107
@@ -1132,7 +1132,7 @@
             "archived": false,
             "id": 99369601,
             "language": "Python",
-            "last_commit": "2026-08-19T17:23:12Z",
+            "last_commit": "2026-08-20T18:57:42Z",
             "owner": "freedomofpress",
             "repo": "securedrop.org",
             "stars": 45
@@ -1147,7 +1147,7 @@
             "archived": false,
             "id": 496950708,
             "language": "Python",
-            "last_commit": "2026-08-17T13:02:31Z",
+            "last_commit": "2026-08-20T14:21:12Z",
             "owner": "wagtail",
             "repo": "guide",
             "stars": 36
@@ -1177,7 +1177,7 @@
             "archived": false,
             "id": 734248578,
             "language": "Python",
-            "last_commit": "2026-08-18T10:54:28Z",
+            "last_commit": "2026-08-20T08:55:05Z",
             "owner": "torchbox",
             "repo": "torchbox.com",
             "stars": 9
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:49:59.037Z",
+    "last_updated": "2026-08-21T04:51:40.345Z",
     "original_repository": "wagtail/awesome-wagtail",
     "original_repository_id": 63629422,
     "original_repository_sha": "70a72b5b3529ed8bf4b88de2e9b64b7f7ef55d86",
