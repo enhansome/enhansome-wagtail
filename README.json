@@ -371,7 +371,7 @@
                 "archived": false,
                 "id": 56688576,
                 "language": "Python",
-                "last_commit": "2026-08-20T16:01:57Z",
+                "last_commit": "2026-08-21T17:04:14Z",
                 "owner": "torchbox",
                 "repo": "wagtailmedia",
                 "stars": 250
@@ -408,7 +408,7 @@
                 "archived": false,
                 "id": 179706908,
                 "language": "Python",
-                "last_commit": "2026-08-20T21:22:45Z",
+                "last_commit": "2026-08-21T22:52:26Z",
                 "owner": "wagtail",
                 "repo": "wagtail-localize",
                 "stars": 254
@@ -876,7 +876,7 @@
                 "archived": false,
                 "id": 587313394,
                 "language": "Python",
-                "last_commit": "2026-08-20T18:46:29Z",
+                "last_commit": "2026-08-21T10:13:25Z",
                 "owner": "numerique-gouv",
                 "repo": "sites-conformes",
                 "stars": 67
@@ -1042,7 +1042,7 @@
             "archived": false,
             "id": 81445419,
             "language": "Python",
-            "last_commit": "2026-08-21T03:00:46Z",
+            "last_commit": "2026-08-22T02:52:02Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1081
@@ -1057,7 +1057,7 @@
             "archived": false,
             "id": 18852566,
             "language": "Python",
-            "last_commit": "2026-08-20T13:59:27Z",
+            "last_commit": "2026-08-21T12:30:59Z",
             "owner": "cfpb",
             "repo": "consumerfinance.gov",
             "stars": 332
@@ -1072,10 +1072,10 @@
             "archived": false,
             "id": 99189495,
             "language": "HTML",
-            "last_commit": "2026-08-19T17:30:13Z",
+            "last_commit": "2026-08-21T19:54:25Z",
             "owner": "outreachy",
             "repo": "website",
-            "stars": 302
+            "stars": 303
           }
         },
         {
@@ -1147,7 +1147,7 @@
             "archived": false,
             "id": 496950708,
             "language": "Python",
-            "last_commit": "2026-08-20T14:21:12Z",
+            "last_commit": "2026-08-21T22:52:09Z",
             "owner": "wagtail",
             "repo": "guide",
             "stars": 36
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:51:40.345Z",
+    "last_updated": "2026-08-22T04:46:30.265Z",
     "original_repository": "wagtail/awesome-wagtail",
     "original_repository_id": 63629422,
     "original_repository_sha": "70a72b5b3529ed8bf4b88de2e9b64b7f7ef55d86",
