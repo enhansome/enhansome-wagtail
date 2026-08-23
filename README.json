@@ -374,7 +374,7 @@
                 "last_commit": "2026-08-21T17:04:14Z",
                 "owner": "torchbox",
                 "repo": "wagtailmedia",
-                "stars": 250
+                "stars": 251
               }
             },
             {
@@ -906,7 +906,7 @@
                 "archived": false,
                 "id": 296870281,
                 "language": "Python",
-                "last_commit": "2026-08-19T07:20:16Z",
+                "last_commit": "2026-08-23T03:49:29Z",
                 "owner": "wagtail",
                 "repo": "cookiecutter-wagtail-package",
                 "stars": 23
@@ -1042,7 +1042,7 @@
             "archived": false,
             "id": 81445419,
             "language": "Python",
-            "last_commit": "2026-08-22T02:52:02Z",
+            "last_commit": "2026-08-23T03:00:38Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1081
@@ -1147,7 +1147,7 @@
             "archived": false,
             "id": 496950708,
             "language": "Python",
-            "last_commit": "2026-08-21T22:52:09Z",
+            "last_commit": "2026-08-22T07:56:04Z",
             "owner": "wagtail",
             "repo": "guide",
             "stars": 36
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:46:30.265Z",
+    "last_updated": "2026-08-23T04:49:55.835Z",
     "original_repository": "wagtail/awesome-wagtail",
     "original_repository_id": 63629422,
     "original_repository_sha": "70a72b5b3529ed8bf4b88de2e9b64b7f7ef55d86",
