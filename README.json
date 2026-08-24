@@ -133,7 +133,7 @@
                 "archived": false,
                 "id": 100515886,
                 "language": "Python",
-                "last_commit": "2026-08-18T14:25:45Z",
+                "last_commit": "2026-08-23T14:03:03Z",
                 "owner": "wagtail",
                 "repo": "wagtail-autocomplete",
                 "stars": 130
@@ -181,7 +181,7 @@
                 "last_commit": "2026-04-12T19:13:45Z",
                 "owner": "marteinn",
                 "repo": "wagtail-color-panel",
-                "stars": 57
+                "stars": 58
               }
             },
             {
@@ -906,7 +906,7 @@
                 "archived": false,
                 "id": 296870281,
                 "language": "Python",
-                "last_commit": "2026-08-23T03:49:29Z",
+                "last_commit": "2026-08-24T02:16:52Z",
                 "owner": "wagtail",
                 "repo": "cookiecutter-wagtail-package",
                 "stars": 23
@@ -943,7 +943,7 @@
                 "archived": false,
                 "id": 791250862,
                 "language": "Python",
-                "last_commit": "2026-08-20T17:29:20Z",
+                "last_commit": "2026-08-23T23:43:08Z",
                 "owner": "wagtail",
                 "repo": "news-template",
                 "stars": 185
@@ -1042,7 +1042,7 @@
             "archived": false,
             "id": 81445419,
             "language": "Python",
-            "last_commit": "2026-08-23T03:00:38Z",
+            "last_commit": "2026-08-24T03:01:19Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1081
@@ -1132,7 +1132,7 @@
             "archived": false,
             "id": 99369601,
             "language": "Python",
-            "last_commit": "2026-08-20T18:57:42Z",
+            "last_commit": "2026-08-23T20:50:24Z",
             "owner": "freedomofpress",
             "repo": "securedrop.org",
             "stars": 45
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:49:55.835Z",
+    "last_updated": "2026-08-24T04:58:59.791Z",
     "original_repository": "wagtail/awesome-wagtail",
     "original_repository_id": 63629422,
     "original_repository_sha": "70a72b5b3529ed8bf4b88de2e9b64b7f7ef55d86",
