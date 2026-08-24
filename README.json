@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 768822178,
                 "language": "Python",
-                "last_commit": "2026-08-10T11:13:49Z",
+                "last_commit": "2026-08-24T11:13:43Z",
                 "owner": "smark-1",
                 "repo": "wagtailterms",
                 "stars": 9
@@ -275,6 +275,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Wagtail-bakery",
+              "description": "A set of helpers for baking your Django Wagtail site out as flat files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65332148,
+                "language": "Python",
+                "last_commit": "2026-05-03T08:40:02Z",
+                "owner": "wagtail-nest",
+                "repo": "wagtail-bakery",
+                "stars": 194
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Static site generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Wagtail-Flags",
+              "description": "Feature flags for Wagtail sites.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80529037,
+                "language": "Python",
+                "last_commit": "2026-04-27T15:01:22Z",
+                "owner": "cfpb",
+                "repo": "wagtail-flags",
+                "stars": 91
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Settings management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "django-salesman",
+              "description": "Headless e-commerce framework for Django with Wagtail modeladmin integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237980844,
+                "language": "Python",
+                "last_commit": "2025-09-24T17:22:53Z",
+                "owner": "dinoperovic",
+                "repo": "django-salesman",
+                "stars": 420
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "E-commerce"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Wagtail SEO",
               "description": "Search engine and social media optimization for Wagtail.",
               "children": [],
@@ -359,6 +425,28 @@
           "description": null,
           "node_type": "group",
           "title": "Customer experience"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wagtail-2fa",
+              "description": "Add two-factor authentication to Wagtail by integrating it with django-otp.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125503323,
+                "language": "Python",
+                "last_commit": "2026-05-27T05:33:20Z",
+                "owner": "labd",
+                "repo": "wagtail-2fa",
+                "stars": 96
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security"
         },
         {
           "children": [
@@ -876,7 +964,7 @@
                 "archived": false,
                 "id": 587313394,
                 "language": "Python",
-                "last_commit": "2026-08-21T10:13:25Z",
+                "last_commit": "2026-08-24T14:01:10Z",
                 "owner": "numerique-gouv",
                 "repo": "sites-conformes",
                 "stars": 67
@@ -906,7 +994,7 @@
                 "archived": false,
                 "id": 296870281,
                 "language": "Python",
-                "last_commit": "2026-08-24T02:16:52Z",
+                "last_commit": "2026-08-24T11:15:38Z",
                 "owner": "wagtail",
                 "repo": "cookiecutter-wagtail-package",
                 "stars": 23
@@ -946,7 +1034,7 @@
                 "last_commit": "2026-08-23T23:43:08Z",
                 "owner": "wagtail",
                 "repo": "news-template",
-                "stars": 185
+                "stars": 184
               }
             },
             {
@@ -1087,7 +1175,7 @@
             "archived": false,
             "id": 40841283,
             "language": "Python",
-            "last_commit": "2026-08-20T16:12:30Z",
+            "last_commit": "2026-08-24T13:36:05Z",
             "owner": "fecgov",
             "repo": "fec-cms",
             "stars": 107
@@ -1147,7 +1235,7 @@
             "archived": false,
             "id": 496950708,
             "language": "Python",
-            "last_commit": "2026-08-22T07:56:04Z",
+            "last_commit": "2026-08-24T07:05:13Z",
             "owner": "wagtail",
             "repo": "guide",
             "stars": 36
@@ -1177,7 +1265,7 @@
             "archived": false,
             "id": 734248578,
             "language": "Python",
-            "last_commit": "2026-08-20T08:55:05Z",
+            "last_commit": "2026-08-24T10:19:49Z",
             "owner": "torchbox",
             "repo": "torchbox.com",
             "stars": 9
@@ -1203,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:58:59.791Z",
+    "last_updated": "2026-08-24T14:04:19.372Z",
     "original_repository": "wagtail/awesome-wagtail",
     "original_repository_id": 63629422,
     "original_repository_sha": "70a72b5b3529ed8bf4b88de2e9b64b7f7ef55d86",
