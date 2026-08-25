@@ -32,7 +32,7 @@
                 "last_commit": "2026-04-13T22:24:53Z",
                 "owner": "APSL",
                 "repo": "puput",
-                "stars": 659
+                "stars": 660
               }
             }
           ],
@@ -459,7 +459,7 @@
                 "archived": false,
                 "id": 56688576,
                 "language": "Python",
-                "last_commit": "2026-08-21T17:04:14Z",
+                "last_commit": "2026-08-24T17:05:32Z",
                 "owner": "torchbox",
                 "repo": "wagtailmedia",
                 "stars": 251
@@ -749,7 +749,7 @@
                 "archived": false,
                 "id": 192560062,
                 "language": "Python",
-                "last_commit": "2026-08-17T21:31:55Z",
+                "last_commit": "2026-08-24T21:04:51Z",
                 "owner": "torchbox",
                 "repo": "wagtail-content-import",
                 "stars": 37
@@ -964,7 +964,7 @@
                 "archived": false,
                 "id": 587313394,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:01:10Z",
+                "last_commit": "2026-08-24T15:48:24Z",
                 "owner": "numerique-gouv",
                 "repo": "sites-conformes",
                 "stars": 67
@@ -1130,7 +1130,7 @@
             "archived": false,
             "id": 81445419,
             "language": "Python",
-            "last_commit": "2026-08-24T03:01:19Z",
+            "last_commit": "2026-08-25T02:56:37Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1081
@@ -1163,7 +1163,7 @@
             "last_commit": "2026-08-21T19:54:25Z",
             "owner": "outreachy",
             "repo": "website",
-            "stars": 303
+            "stars": 305
           }
         },
         {
@@ -1175,7 +1175,7 @@
             "archived": false,
             "id": 40841283,
             "language": "Python",
-            "last_commit": "2026-08-24T13:36:05Z",
+            "last_commit": "2026-08-24T19:15:41Z",
             "owner": "fecgov",
             "repo": "fec-cms",
             "stars": 107
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:04:19.372Z",
+    "last_updated": "2026-08-25T04:51:05.550Z",
     "original_repository": "wagtail/awesome-wagtail",
     "original_repository_id": 63629422,
     "original_repository_sha": "70a72b5b3529ed8bf4b88de2e9b64b7f7ef55d86",
