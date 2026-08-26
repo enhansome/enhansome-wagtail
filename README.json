@@ -103,7 +103,7 @@
                 "archived": false,
                 "id": 42451079,
                 "language": "Python",
-                "last_commit": "2026-07-06T21:02:37Z",
+                "last_commit": "2026-08-25T13:06:12Z",
                 "owner": "torchbox",
                 "repo": "wagtail-markdown",
                 "stars": 218
@@ -133,7 +133,7 @@
                 "archived": false,
                 "id": 100515886,
                 "language": "Python",
-                "last_commit": "2026-08-23T14:03:03Z",
+                "last_commit": "2026-08-25T20:30:58Z",
                 "owner": "wagtail",
                 "repo": "wagtail-autocomplete",
                 "stars": 130
@@ -964,7 +964,7 @@
                 "archived": false,
                 "id": 587313394,
                 "language": "Python",
-                "last_commit": "2026-08-24T15:48:24Z",
+                "last_commit": "2026-08-25T15:34:56Z",
                 "owner": "numerique-gouv",
                 "repo": "sites-conformes",
                 "stars": 67
@@ -1130,7 +1130,7 @@
             "archived": false,
             "id": 81445419,
             "language": "Python",
-            "last_commit": "2026-08-25T02:56:37Z",
+            "last_commit": "2026-08-26T03:02:53Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1081
@@ -1145,7 +1145,7 @@
             "archived": false,
             "id": 18852566,
             "language": "Python",
-            "last_commit": "2026-08-21T12:30:59Z",
+            "last_commit": "2026-08-25T13:26:37Z",
             "owner": "cfpb",
             "repo": "consumerfinance.gov",
             "stars": 332
@@ -1163,7 +1163,7 @@
             "last_commit": "2026-08-21T19:54:25Z",
             "owner": "outreachy",
             "repo": "website",
-            "stars": 305
+            "stars": 306
           }
         },
         {
@@ -1175,7 +1175,7 @@
             "archived": false,
             "id": 40841283,
             "language": "Python",
-            "last_commit": "2026-08-24T19:15:41Z",
+            "last_commit": "2026-08-25T21:09:01Z",
             "owner": "fecgov",
             "repo": "fec-cms",
             "stars": 107
@@ -1235,7 +1235,7 @@
             "archived": false,
             "id": 496950708,
             "language": "Python",
-            "last_commit": "2026-08-24T07:05:13Z",
+            "last_commit": "2026-08-25T14:53:17Z",
             "owner": "wagtail",
             "repo": "guide",
             "stars": 36
@@ -1265,7 +1265,7 @@
             "archived": false,
             "id": 734248578,
             "language": "Python",
-            "last_commit": "2026-08-24T10:19:49Z",
+            "last_commit": "2026-08-25T11:29:45Z",
             "owner": "torchbox",
             "repo": "torchbox.com",
             "stars": 9
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:04:59.575Z",
+    "last_updated": "2026-08-26T04:53:36.396Z",
     "original_repository": "wagtail/awesome-wagtail",
     "original_repository_id": 63629422,
     "original_repository_sha": "70a72b5b3529ed8bf4b88de2e9b64b7f7ef55d86",
