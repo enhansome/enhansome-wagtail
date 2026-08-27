@@ -964,7 +964,7 @@
                 "archived": false,
                 "id": 587313394,
                 "language": "Python",
-                "last_commit": "2026-08-26T14:54:42Z",
+                "last_commit": "2026-08-27T12:34:47Z",
                 "owner": "numerique-gouv",
                 "repo": "sites-conformes",
                 "stars": 67
@@ -1130,7 +1130,7 @@
             "archived": false,
             "id": 81445419,
             "language": "Python",
-            "last_commit": "2026-08-26T20:30:41Z",
+            "last_commit": "2026-08-27T12:22:08Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1080
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:11:27.749Z",
+    "last_updated": "2026-08-27T15:12:32.887Z",
     "original_repository_info": {
       "archived": false,
       "id": 63629422,
