@@ -18,7 +18,8 @@
                 "owner": "coderedcorp",
                 "repo": "coderedcms",
                 "stars": 766
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "APSL",
                 "repo": "puput",
                 "stars": 660
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "Nigel2392",
                 "repo": "wagtail_editorjs",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "smark-1",
                 "repo": "wagtailterms",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "julinodev",
                 "repo": "wagtailmdx",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -107,7 +112,8 @@
                 "owner": "torchbox",
                 "repo": "wagtail-markdown",
                 "stars": 218
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -122,7 +128,8 @@
                 "owner": "Frojd",
                 "repo": "wagtail-geo-widget",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -137,7 +144,8 @@
                 "owner": "wagtail",
                 "repo": "wagtail-autocomplete",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "wagtail",
                 "repo": "wagtail-generic-chooser",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -166,8 +175,9 @@
                 "last_commit": "2025-06-17T22:07:28Z",
                 "owner": "springload",
                 "repo": "wagtailgmaps",
-                "stars": 84
-              }
+                "stars": 85
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "marteinn",
                 "repo": "wagtail-color-panel",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "ixc",
                 "repo": "wagtail-instance-selector",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "Nigel2392",
                 "repo": "wagtail_ace_editor",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -227,7 +240,8 @@
                 "owner": "kkm-horikawa",
                 "repo": "wagtail-html-editor",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -249,7 +263,8 @@
                 "owner": "wagtail-nest",
                 "repo": "wagtailcodeblock",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "cfpb",
                 "repo": "wagtail-inventory",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -286,7 +302,8 @@
                 "owner": "wagtail-nest",
                 "repo": "wagtail-bakery",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -308,7 +325,8 @@
                 "owner": "cfpb",
                 "repo": "wagtail-flags",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -330,7 +348,8 @@
                 "owner": "dinoperovic",
                 "repo": "django-salesman",
                 "stars": 420
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -352,7 +371,8 @@
                 "owner": "coderedcorp",
                 "repo": "wagtail-seo",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -367,7 +387,8 @@
                 "owner": "Frojd",
                 "repo": "wagtail-meta-preview",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -382,7 +403,8 @@
                 "owner": "Aleksi44",
                 "repo": "wagtailyoast",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -404,7 +426,8 @@
                 "owner": "wagtail-nest",
                 "repo": "wagtail-personalisation",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -419,7 +442,8 @@
                 "owner": "torchbox",
                 "repo": "wagtail-experiments",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -441,7 +465,8 @@
                 "owner": "labd",
                 "repo": "wagtail-2fa",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -463,7 +488,8 @@
                 "owner": "torchbox",
                 "repo": "wagtailmedia",
                 "stars": 252
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -478,7 +504,8 @@
                 "owner": "j-bodek",
                 "repo": "wagtail-transcription",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -499,8 +526,9 @@
                 "last_commit": "2026-08-21T22:52:26Z",
                 "owner": "wagtail",
                 "repo": "wagtail-localize",
-                "stars": 254
-              }
+                "stars": 255
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -515,7 +543,8 @@
                 "owner": "infoportugal",
                 "repo": "wagtail-modeltranslation",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -537,7 +566,8 @@
                 "owner": "wagtail-nest",
                 "repo": "wagtail-django-recaptcha",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -552,7 +582,8 @@
                 "owner": "vicktornl",
                 "repo": "wagtail-model-forms",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -567,7 +598,8 @@
                 "owner": "mwesterhof",
                 "repo": "wagtail_formation",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -582,7 +614,8 @@
                 "owner": "torchbox",
                 "repo": "wagtail-jotform",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -604,7 +637,8 @@
                 "owner": "wagtail",
                 "repo": "wagtail-factories",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -619,7 +653,8 @@
                 "owner": "neon-jungle",
                 "repo": "wagtail-linkchecker",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -634,7 +669,8 @@
                 "owner": "wagtail-nest",
                 "repo": "wagtail-accessibility",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -656,7 +692,8 @@
                 "owner": "cfpb",
                 "repo": "wagtail-treemodeladmin",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -671,7 +708,8 @@
                 "owner": "ixc",
                 "repo": "wagtail-admin-list-controls",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -686,7 +724,8 @@
                 "owner": "wunderweiss",
                 "repo": "wagtail-rangefilter",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -708,7 +747,8 @@
                 "owner": "torchbox",
                 "repo": "wagtail-headless-preview",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -723,7 +763,8 @@
                 "owner": "wagtail",
                 "repo": "wagtail-transfer",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -738,7 +779,8 @@
                 "owner": "cfpb",
                 "repo": "wagtail-sharing",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -753,7 +795,8 @@
                 "owner": "torchbox",
                 "repo": "wagtail-content-import",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -768,7 +811,8 @@
                 "owner": "Nigel2392",
                 "repo": "wagtail_fedit",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -790,7 +834,8 @@
                 "owner": "jazzband",
                 "repo": "wagtailmenus",
                 "stars": 420
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -805,7 +850,8 @@
                 "owner": "torchbox",
                 "repo": "wagtail-grapple",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -820,7 +866,8 @@
                 "owner": "adinhodovic",
                 "repo": "wagtail-resume",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -835,7 +882,8 @@
                 "owner": "coderedcorp",
                 "repo": "wagtail-cache",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -850,7 +898,8 @@
                 "owner": "wharton",
                 "repo": "wagtailgridder",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -865,7 +914,8 @@
                 "owner": "elton2048",
                 "repo": "wagtail-orderable",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -880,7 +930,8 @@
                 "owner": "Frojd",
                 "repo": "wagtail-trash",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -895,7 +946,8 @@
                 "owner": "mwesterhof",
                 "repo": "wagtail_app_pages",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -910,7 +962,8 @@
                 "owner": "donhauser",
                 "repo": "wagtail-pdf",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -925,7 +978,8 @@
                 "owner": "vicktornl",
                 "repo": "wagtail-cache-invalidator",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -953,7 +1007,8 @@
                 "owner": "Frojd",
                 "repo": "Wagtail-Pipit",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -964,11 +1019,12 @@
                 "archived": false,
                 "id": 587313394,
                 "language": "Python",
-                "last_commit": "2026-08-27T12:34:47Z",
+                "last_commit": "2026-08-28T14:36:14Z",
                 "owner": "numerique-gouv",
                 "repo": "sites-conformes",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -983,7 +1039,8 @@
                 "owner": "engineervix",
                 "repo": "cookiecutter-wagtail-vix",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -998,7 +1055,8 @@
                 "owner": "wagtail",
                 "repo": "cookiecutter-wagtail-package",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -1013,7 +1071,8 @@
                 "owner": "platformsh-templates",
                 "repo": "wagtail",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -1034,8 +1093,9 @@
                 "last_commit": "2026-08-23T23:43:08Z",
                 "owner": "wagtail",
                 "repo": "news-template",
-                "stars": 184
-              }
+                "stars": 185
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -1050,7 +1110,8 @@
                 "owner": "thibaudcolas",
                 "repo": "wagtail-tutorial-template",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -1078,7 +1139,8 @@
                 "owner": "fourdigits",
                 "repo": "wagtail_textract",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -1093,7 +1155,8 @@
                 "owner": "LUKKIEN",
                 "repo": "wagtail-marketing-addons",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             },
             {
               "node_type": "item",
@@ -1108,7 +1171,8 @@
                 "owner": "specialunderwear",
                 "repo": "haunted-wagtail",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:35:36.811Z"
             }
           ],
           "description": null,
@@ -1130,11 +1194,12 @@
             "archived": false,
             "id": 81445419,
             "language": "Python",
-            "last_commit": "2026-08-27T12:22:08Z",
+            "last_commit": "2026-08-28T13:48:38Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1080
-          }
+          },
+          "first_seen": "2026-08-28T16:35:36.811Z"
         },
         {
           "node_type": "item",
@@ -1145,11 +1210,12 @@
             "archived": false,
             "id": 18852566,
             "language": "Python",
-            "last_commit": "2026-08-25T13:26:37Z",
+            "last_commit": "2026-08-28T15:18:45Z",
             "owner": "cfpb",
             "repo": "consumerfinance.gov",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T16:35:36.811Z"
         },
         {
           "node_type": "item",
@@ -1164,7 +1230,8 @@
             "owner": "outreachy",
             "repo": "website",
             "stars": 306
-          }
+          },
+          "first_seen": "2026-08-28T16:35:36.811Z"
         },
         {
           "node_type": "item",
@@ -1179,7 +1246,8 @@
             "owner": "fecgov",
             "repo": "fec-cms",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T16:35:36.811Z"
         },
         {
           "node_type": "item",
@@ -1194,7 +1262,8 @@
             "owner": "wagtail",
             "repo": "madewithwagtail",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T16:35:36.811Z"
         },
         {
           "node_type": "item",
@@ -1209,7 +1278,8 @@
             "owner": "WesternFriend",
             "repo": "westernfriend.org",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T16:35:36.811Z"
         },
         {
           "node_type": "item",
@@ -1220,11 +1290,12 @@
             "archived": false,
             "id": 99369601,
             "language": "Python",
-            "last_commit": "2026-08-26T18:55:51Z",
+            "last_commit": "2026-08-28T01:17:29Z",
             "owner": "freedomofpress",
             "repo": "securedrop.org",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T16:35:36.811Z"
         },
         {
           "node_type": "item",
@@ -1239,7 +1310,8 @@
             "owner": "wagtail",
             "repo": "guide",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T16:35:36.811Z"
         },
         {
           "node_type": "item",
@@ -1254,7 +1326,8 @@
             "owner": "nfletton",
             "repo": "bvspca",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:35:36.811Z"
         },
         {
           "node_type": "item",
@@ -1269,7 +1342,8 @@
             "owner": "torchbox",
             "repo": "torchbox.com",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:35:36.811Z"
         },
         {
           "node_type": "item",
@@ -1284,14 +1358,15 @@
             "owner": "danlerche",
             "repo": "public-library-wagtailCMS",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:35:36.811Z"
         }
       ],
       "title": "Open-source sites"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:12:32.887Z",
+    "last_updated": "2026-08-28T16:35:36.811Z",
     "original_repository_info": {
       "archived": false,
       "id": 63629422,
