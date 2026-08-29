@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wagtail + CodeRed Extensions enabling rapid development of marketing-focused websites.",
+                "homepage": "https://www.coderedcorp.com/cms",
                 "id": 142790775,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-16T22:01:19Z",
+                "open_issues": 65,
                 "owner": "coderedcorp",
                 "repo": "coderedcms",
-                "stars": 766
+                "stars": 766,
+                "topics": [
+                  "bootstrap",
+                  "bootstrap5",
+                  "cms",
+                  "content-management-system",
+                  "django",
+                  "responsive",
+                  "wagtail",
+                  "website-builder"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -28,12 +42,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Django blog app implemented in Wagtail",
+                "homepage": null,
                 "id": 39860842,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-13T22:24:53Z",
+                "open_issues": 14,
                 "owner": "APSL",
                 "repo": "puput",
-                "stars": 660
+                "stars": 660,
+                "topics": [
+                  "blog",
+                  "blogging",
+                  "cms",
+                  "django",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -51,12 +76,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EditorJS Wagtail widget with page, document and image- chooser functionality. Use Wagtail blocks in your richtext!",
+                "homepage": null,
                 "id": 776232843,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2025-03-06T13:31:45Z",
+                "open_issues": 3,
                 "owner": "Nigel2392",
                 "repo": "wagtail_editorjs",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "django",
+                  "python",
+                  "python3",
+                  "rich-text-editor",
+                  "wagtail",
+                  "wagtail-rich-text"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -67,12 +104,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Wagtail plugin to add support for glossary terms entity to Draftail",
+                "homepage": null,
                 "id": 768822178,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T11:13:43Z",
+                "open_issues": 3,
                 "owner": "smark-1",
                 "repo": "wagtailterms",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -83,12 +125,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "wagtailmdx adds the MDXEditor as widget and textfield intended for use with an MarkdownX frontend including custom components for Wagtail. ",
+                "homepage": "https://pypi.org/project/wagtailmdx/",
                 "id": 863990767,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-09-27T11:07:16Z",
+                "open_issues": 0,
                 "owner": "julinodev",
                 "repo": "wagtailmdx",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "mdxeditor",
+                  "wagtail",
+                  "wagtail-plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -106,12 +157,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown support for Wagtail",
+                "homepage": null,
                 "id": 42451079,
                 "language": "Python",
+                "license": "Zlib",
                 "last_commit": "2026-08-25T13:06:12Z",
+                "open_issues": 10,
                 "owner": "torchbox",
                 "repo": "wagtail-markdown",
-                "stars": 218
+                "stars": 218,
+                "topics": [
+                  "django",
+                  "hacktoberfest",
+                  "markdown",
+                  "wagtail",
+                  "wagtail-cms",
+                  "wagtail-plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -122,12 +185,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wagtail-Geo-Widget is the complete map solution for your Wagtail site.",
+                "homepage": null,
                 "id": 72821192,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-09T07:12:48Z",
+                "open_issues": 13,
                 "owner": "Frojd",
                 "repo": "wagtail-geo-widget",
-                "stars": 151
+                "stars": 151,
+                "topics": [
+                  "geodjango",
+                  "google-maps",
+                  "leaflet",
+                  "open-street-map",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -138,12 +212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Autocomplete edit handler for selecting Pages, Snippets, and more.",
+                "homepage": "https://wagtail-autocomplete.readthedocs.io/",
                 "id": 100515886,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-26T14:22:27Z",
+                "open_issues": 52,
                 "owner": "wagtail",
                 "repo": "wagtail-autocomplete",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -154,12 +233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit for custom chooser popups in Wagtail",
+                "homepage": null,
                 "id": 177668509,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-26T10:15:39Z",
+                "open_issues": 15,
                 "owner": "wagtail",
                 "repo": "wagtail-generic-chooser",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -170,12 +254,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Google Maps address formatter for Wagtail fields",
+                "homepage": "https://pypi.python.org/pypi/wagtailgmaps",
                 "id": 27564424,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-17T22:07:28Z",
+                "open_issues": 11,
                 "owner": "springload",
                 "repo": "wagtailgmaps",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "google-maps",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -186,12 +278,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A package that adds new panels for selecting colors, works both on regular page fields and stream field.",
+                "homepage": null,
                 "id": 283440297,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-12T19:13:45Z",
+                "open_issues": 3,
                 "owner": "marteinn",
                 "repo": "wagtail-color-panel",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "input-color",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -202,12 +302,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A widget for Wagtail's admin that allows you to create and select related items",
+                "homepage": null,
                 "id": 190288865,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-05T05:20:56Z",
+                "open_issues": 8,
                 "owner": "ixc",
                 "repo": "wagtail-instance-selector",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -218,12 +323,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ace Editor right in your Wagtail admin",
+                "homepage": null,
                 "id": 760380830,
                 "language": "JavaScript",
+                "license": "GPL-2.0",
                 "last_commit": "2024-07-09T10:56:07Z",
+                "open_issues": 0,
                 "owner": "Nigel2392",
                 "repo": "wagtail_ace_editor",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -234,12 +344,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enhanced HTML editor block for Wagtail CMS with CodeMirror 6, syntax highlighting, Emmet support, and fullscreen mode",
+                "homepage": null,
                 "id": 1114855339,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-02-27T05:22:22Z",
+                "open_issues": 0,
                 "owner": "kkm-horikawa",
                 "repo": "wagtail-html-editor",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "codemirror",
+                  "django",
+                  "html-editor",
+                  "streamfield",
+                  "syntax-highlighting",
+                  "wagtail",
+                  "wagtail-cms"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -257,12 +380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting.",
+                "homepage": null,
                 "id": 88785829,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-05-02T20:06:13Z",
+                "open_issues": 6,
                 "owner": "wagtail-nest",
                 "repo": "wagtailcodeblock",
-                "stars": 172
+                "stars": 172,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -273,12 +401,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Search Wagtail pages by the StreamField blocks they contain",
+                "homepage": null,
                 "id": 85976485,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2026-07-30T14:29:48Z",
+                "open_issues": 2,
                 "owner": "cfpb",
                 "repo": "wagtail-inventory",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "django",
+                  "hacktoberfest",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -296,12 +433,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of helpers for baking your Django Wagtail site out as flat files.",
+                "homepage": null,
                 "id": 65332148,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-03T08:40:02Z",
+                "open_issues": 21,
                 "owner": "wagtail-nest",
                 "repo": "wagtail-bakery",
-                "stars": 194
+                "stars": 194,
+                "topics": [
+                  "django",
+                  "static-site-generator",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -319,12 +465,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Feature flags for Wagtail sites",
+                "homepage": null,
                 "id": 80529037,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2026-04-27T15:01:22Z",
+                "open_issues": 3,
                 "owner": "cfpb",
                 "repo": "wagtail-flags",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "django",
+                  "hacktoberfest",
+                  "python",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -342,12 +498,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Headless e-commerce framework for Django and Wagtail.",
+                "homepage": "https://django-salesman.rtfd.io",
                 "id": 237980844,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-09-24T17:22:53Z",
+                "open_issues": 11,
                 "owner": "dinoperovic",
                 "repo": "django-salesman",
-                "stars": 420
+                "stars": 420,
+                "topics": [
+                  "django",
+                  "e-commerce",
+                  "framework",
+                  "headless",
+                  "python",
+                  "rest-api",
+                  "shop",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -365,12 +535,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Search engine and social media optimization for Wagtail.",
+                "homepage": null,
                 "id": 292328808,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-11T16:06:15Z",
+                "open_issues": 13,
                 "owner": "coderedcorp",
                 "repo": "wagtail-seo",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -381,12 +556,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wagtail Meta Preview provides panels for previewing Facebook sharing, Twitter sharing and Google search results in the Wagtail admin.",
+                "homepage": null,
                 "id": 278864696,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-14T11:21:32Z",
+                "open_issues": 6,
                 "owner": "Frojd",
                 "repo": "wagtail-meta-preview",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "meta",
+                  "preview",
+                  "share",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -397,12 +582,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wagtail + Yoast",
+                "homepage": "https://pypi.org/project/wagtailyoast/",
                 "id": 291236232,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-29T13:58:16Z",
+                "open_issues": 4,
                 "owner": "Aleksi44",
                 "repo": "wagtailyoast",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "django",
+                  "wagtail",
+                  "yoast"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -420,12 +614,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rule-based personalisation for Wagtail CMS",
+                "homepage": "https://wagtail.org/content-personalization/",
                 "id": 73068364,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-13T15:52:27Z",
+                "open_issues": 43,
                 "owner": "wagtail-nest",
                 "repo": "wagtail-personalisation",
-                "stars": 130
+                "stars": 130,
+                "topics": [
+                  "django",
+                  "personalisation",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -436,12 +639,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A/B testing for Wagtail",
+                "homepage": null,
                 "id": 70902052,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-12-16T12:25:11Z",
+                "open_issues": 9,
                 "owner": "torchbox",
                 "repo": "wagtail-experiments",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "ab-testing",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -459,12 +670,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2 Factor Authentication for Wagtail",
+                "homepage": "https://wagtail-2fa.readthedocs.io/en/latest/",
                 "id": 125503323,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-27T05:33:20Z",
+                "open_issues": 25,
                 "owner": "labd",
                 "repo": "wagtail-2fa",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "2fa",
+                  "django",
+                  "python",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -482,12 +703,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Wagtail module for managing video and audio files within the admin",
+                "homepage": "https://pypi.org/project/wagtailmedia/",
                 "id": 56688576,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T17:05:32Z",
+                "open_issues": 31,
                 "owner": "torchbox",
                 "repo": "wagtailmedia",
-                "stars": 252
+                "stars": 252,
+                "topics": [
+                  "audio",
+                  "django",
+                  "hacktoberfest",
+                  "streamfield",
+                  "video",
+                  "wagtail",
+                  "wagtail-plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -498,12 +732,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 533817198,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-31T11:17:17Z",
+                "open_issues": 0,
                 "owner": "j-bodek",
                 "repo": "wagtail-transcription",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -521,12 +760,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Translation plugin for Wagtail CMS",
+                "homepage": "https://wagtail-localize.org/",
                 "id": 179706908,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-21T22:52:26Z",
+                "open_issues": 179,
                 "owner": "wagtail",
                 "repo": "wagtail-localize",
-                "stars": 255
+                "stars": 255,
+                "topics": [
+                  "internationalisation",
+                  "wagtail",
+                  "wagtail-package",
+                  "wagtail-plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -537,12 +786,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple app to patch modeltranslation (https://github.com/deschler/django-modeltranslation) into Wagtail CMS.",
+                "homepage": null,
                 "id": 35872414,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-02-03T20:56:41Z",
+                "open_issues": 29,
                 "owner": "infoportugal",
                 "repo": "wagtail-modeltranslation",
-                "stars": 153
+                "stars": 153,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -560,12 +814,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple recaptcha field for Wagtail Form Pages",
+                "homepage": "https://pypi.python.org/pypi/wagtail-django-recaptcha/",
                 "id": 44136510,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-06T16:41:23Z",
+                "open_issues": 14,
                 "owner": "wagtail-nest",
                 "repo": "wagtail-django-recaptcha",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "captcha",
+                  "recaptcha",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -576,12 +839,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Wagtail Form Builder functionalities available for your models/snippets.",
+                "homepage": null,
                 "id": 491490315,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-29T11:07:20Z",
+                "open_issues": 5,
                 "owner": "vicktornl",
                 "repo": "wagtail-model-forms",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -592,12 +860,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic forms in wagtail",
+                "homepage": null,
                 "id": 612237182,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-26T10:19:58Z",
+                "open_issues": 0,
                 "owner": "mwesterhof",
                 "repo": "wagtail_formation",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -608,12 +881,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin for using jotforms in wagtail",
+                "homepage": null,
                 "id": 300200217,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-26T10:45:26Z",
+                "open_issues": 0,
                 "owner": "torchbox",
                 "repo": "wagtail-jotform",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "jotform-api",
+                  "wagtail",
+                  "wagtail-plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -631,12 +913,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Factory boy classes for wagtail",
+                "homepage": "http://wagtail-factories.readthedocs.io/en/latest/",
                 "id": 75966140,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-04T15:28:58Z",
+                "open_issues": 20,
                 "owner": "wagtail",
                 "repo": "wagtail-factories",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "factory-boy",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -647,12 +937,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to assist with finding broken links on your wagtail site.",
+                "homepage": null,
                 "id": 49841612,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-06-24T06:39:14Z",
+                "open_issues": 1,
                 "owner": "neon-jungle",
                 "repo": "wagtail-linkchecker",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -663,12 +958,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✅ Accessibility content checks for Wagtail websites",
+                "homepage": "https://wagtail-nest.github.io/wagtail-accessibility/",
                 "id": 52248609,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-13T18:24:48Z",
+                "open_issues": 8,
                 "owner": "wagtail-nest",
                 "repo": "wagtail-accessibility",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "accessibility",
+                  "django",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -686,12 +990,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An extension for Wagtail's ModelAdmin for a page explorer-like navigation of Django model relationships",
+                "homepage": null,
                 "id": 132007145,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2026-04-10T20:49:40Z",
+                "open_issues": 3,
                 "owner": "cfpb",
                 "repo": "wagtail-treemodeladmin",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "django",
+                  "hacktoberfest",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -702,12 +1015,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A UI toolkit that extends Wagtail's admin list views and allows you to build custom filters, buttons, panels and more",
+                "homepage": null,
                 "id": 245024270,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-05T06:47:46Z",
+                "open_issues": 9,
                 "owner": "ixc",
                 "repo": "wagtail-admin-list-controls",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -718,12 +1036,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Integrates django-admin-rangefilter into Wagtail's ModelAdmin",
+                "homepage": null,
                 "id": 538910854,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-01-12T07:34:16Z",
+                "open_issues": 1,
                 "owner": "wunderweiss",
                 "repo": "wagtail-rangefilter",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "django",
+                  "wagtail",
+                  "wagtail-plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -741,12 +1068,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Previews for headless Wagtail setups",
+                "homepage": null,
                 "id": 184295187,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-06T21:02:33Z",
+                "open_issues": 8,
                 "owner": "torchbox",
                 "repo": "wagtail-headless-preview",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "headless",
+                  "wagtail",
+                  "wagtail-cms",
+                  "wagtail-plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -757,12 +1094,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Content transfer for Wagtail",
+                "homepage": "https://wagtail.github.io/wagtail-transfer/",
                 "id": 215344185,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-02-07T16:58:57Z",
+                "open_issues": 46,
                 "owner": "wagtail",
                 "repo": "wagtail-transfer",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -773,12 +1115,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easier sharing of Wagtail drafts",
+                "homepage": null,
                 "id": 78551421,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2026-04-24T13:57:39Z",
+                "open_issues": 5,
                 "owner": "cfpb",
                 "repo": "wagtail-sharing",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "django",
+                  "hacktoberfest",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -789,12 +1140,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A module for importing page content into Wagtail from third-party sources. Docs:",
+                "homepage": "https://torchbox.github.io/wagtail-content-import/index.html",
                 "id": 192560062,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T21:04:51Z",
+                "open_issues": 7,
                 "owner": "torchbox",
                 "repo": "wagtail-content-import",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -805,12 +1161,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Frontend editing on your Wagtail site?!",
+                "homepage": null,
                 "id": 780626110,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2025-06-04T00:49:25Z",
+                "open_issues": 0,
                 "owner": "Nigel2392",
                 "repo": "wagtail_fedit",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "content-management",
+                  "django",
+                  "frontend-editing",
+                  "python",
+                  "python3",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -828,12 +1196,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An app to help you manage and render menus in your Wagtail projects more effectively",
+                "homepage": null,
                 "id": 50591665,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-22T13:24:11Z",
+                "open_issues": 19,
                 "owner": "jazzband",
                 "repo": "wagtailmenus",
-                "stars": 420
+                "stars": 420,
+                "topics": [
+                  "django",
+                  "menus",
+                  "python",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -844,12 +1222,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Wagtail app that makes building GraphQL endpoints a breeze!",
+                "homepage": "https://wagtail-grapple.readthedocs.io/en/latest/",
                 "id": 193288417,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-06T21:02:31Z",
+                "open_issues": 62,
                 "owner": "torchbox",
                 "repo": "wagtail-grapple",
-                "stars": 160
+                "stars": 160,
+                "topics": [
+                  "django",
+                  "graphene",
+                  "graphql",
+                  "graphql-endpoint",
+                  "hacktoberfest",
+                  "python",
+                  "wagtail",
+                  "wagtail-cms",
+                  "wagtail-graphql",
+                  "wagtail-grapple",
+                  "wagtail-plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -860,12 +1255,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Wagtail project made to simplify creation of resumes for developers.",
+                "homepage": "https://hodovi.cc/wagtail-resume-sample/",
                 "id": 218828033,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-03T11:45:34Z",
+                "open_issues": 0,
                 "owner": "adinhodovic",
                 "repo": "wagtail-resume",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "django",
+                  "resume",
+                  "resume-template",
+                  "wagtail",
+                  "wagtail-apps",
+                  "wagtail-cms",
+                  "wagtail-page"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -876,12 +1284,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple page cache for Wagtail based on the Django cache middleware.",
+                "homepage": null,
                 "id": 160899916,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-09T22:22:24Z",
+                "open_issues": 8,
                 "owner": "coderedcorp",
                 "repo": "wagtail-cache",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "cache",
+                  "caching",
+                  "django",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -892,12 +1310,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wagtail Gridder is a Bootstrap 4 enabled layout for the Wagtail CMS. Grid Items are created within categories, and displayed on a Grid Index Page. The JavaScript libraries Gridder and MixItUp are included.",
+                "homepage": null,
                 "id": 81343058,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-29T13:55:06Z",
+                "open_issues": 1,
                 "owner": "wharton",
                 "repo": "wagtailgridder",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "bootstrap",
+                  "django",
+                  "python",
+                  "wagtail",
+                  "wagtail-cms"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -908,12 +1337,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wagtail mixin support for drag-and-drop ordering in admin panel",
+                "homepage": null,
                 "id": 163503604,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-14T08:38:15Z",
+                "open_issues": 12,
                 "owner": "elton2048",
                 "repo": "wagtail-orderable",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -924,12 +1358,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instead of deleting pages when pressing delete, pages will get thrown into the \"Trash Can\".",
+                "homepage": null,
                 "id": 305655038,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-23T04:54:02Z",
+                "open_issues": 6,
                 "owner": "Frojd",
                 "repo": "wagtail-trash",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "recycle",
+                  "trash",
+                  "trashcan",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -940,12 +1384,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full MVC support for wagtail pages",
+                "homepage": null,
                 "id": 125367474,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-08T11:33:54Z",
+                "open_issues": 4,
                 "owner": "mwesterhof",
                 "repo": "wagtail_app_pages",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -956,12 +1405,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PDF rendering views for the Wagtail CMS",
+                "homepage": null,
                 "id": 331626074,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-30T18:50:34Z",
+                "open_issues": 0,
                 "owner": "donhauser",
                 "repo": "wagtail-pdf",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -972,12 +1426,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 439362500,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-10T07:27:15Z",
+                "open_issues": 1,
                 "owner": "vicktornl",
                 "repo": "wagtail-cache-invalidator",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -1001,12 +1460,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pipit is a Wagtail CMS boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.",
+                "homepage": null,
                 "id": 31060441,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T18:46:31Z",
+                "open_issues": 43,
                 "owner": "Frojd",
                 "repo": "Wagtail-Pipit",
-                "stars": 257
+                "stars": 257,
+                "topics": [
+                  "ansible",
+                  "boilerplate",
+                  "cookiecutter",
+                  "django",
+                  "docker",
+                  "mypy",
+                  "nextjs",
+                  "pytest",
+                  "reactjs",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -1017,12 +1492,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gestionnaire de contenu permettant de créer et gérer un site internet basé sur le Système de design de l'État, accessible et sécurisé. Basé sur Wagtail CMS",
+                "homepage": "https://sites.beta.gouv.fr/",
                 "id": 587313394,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T14:36:14Z",
+                "open_issues": 46,
                 "owner": "numerique-gouv",
                 "repo": "sites-conformes",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "cms",
+                  "django",
+                  "dsfr",
+                  "gouvernement",
+                  "hacktoberfest",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -1033,12 +1520,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a minimal, batteries-included, reusable project skeleton to serve as a starting point for a Wagtail project.",
+                "homepage": null,
                 "id": 252283306,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T17:56:37Z",
+                "open_issues": 15,
                 "owner": "engineervix",
                 "repo": "cookiecutter-wagtail-vix",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "cookiecutter",
+                  "cookiecutter-template",
+                  "django",
+                  "python",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -1049,12 +1547,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cookiecutter template for building Wagtail add-on packages",
+                "homepage": null,
                 "id": 296870281,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T07:29:20Z",
+                "open_issues": 4,
                 "owner": "wagtail",
                 "repo": "cookiecutter-wagtail-package",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "cookiecutter",
+                  "cookiecutter-template",
+                  "django",
+                  "python-package",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -1065,12 +1574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wagtail template for Platform.sh.",
+                "homepage": null,
                 "id": 210946948,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-08T19:37:56Z",
+                "open_issues": 0,
                 "owner": "platformsh-templates",
                 "repo": "wagtail",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -1088,12 +1602,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Wagtail template for a news site",
+                "homepage": "https://wagtail.org/blog/new-starter-kit-for-wagtail-cms/",
                 "id": 791250862,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-23T23:43:08Z",
+                "open_issues": 69,
                 "owner": "wagtail",
                 "repo": "news-template",
-                "stars": 185
+                "stars": 185,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -1104,12 +1623,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Wagtail project starter template – with the solution to Wagtail’s official Your first Wagtail site tutorial.",
+                "homepage": null,
                 "id": 653563632,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-16T14:49:00Z",
+                "open_issues": 0,
                 "owner": "thibaudcolas",
                 "repo": "wagtail-tutorial-template",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -1133,12 +1657,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Text extraction for Wagtail document search",
+                "homepage": null,
                 "id": 131723538,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-10-25T08:15:55Z",
+                "open_issues": 14,
                 "owner": "fourdigits",
                 "repo": "wagtail_textract",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "django",
+                  "search",
+                  "tesseract",
+                  "text-extraction",
+                  "textract",
+                  "wagtail"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -1149,12 +1685,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An (opinionated) overview of all pages and their corresponding promotion settings.",
+                "homepage": null,
                 "id": 175669428,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-15T10:59:32Z",
+                "open_issues": 6,
                 "owner": "LUKKIEN",
                 "repo": "wagtail-marketing-addons",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "marketing-tools",
+                  "seo-tools",
+                  "wagtail",
+                  "wagtail-plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             },
@@ -1165,12 +1711,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A spooky easteregg for wagtail",
+                "homepage": null,
                 "id": 125199199,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-03-16T10:53:50Z",
+                "open_issues": 0,
                 "owner": "specialunderwear",
                 "repo": "haunted-wagtail",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
             }
@@ -1192,12 +1743,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next generation Wagtail demo, born in Reykjavík",
+            "homepage": null,
             "id": 81445419,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T13:48:38Z",
+            "open_issues": 60,
             "owner": "wagtail",
             "repo": "bakerydemo",
-            "stars": 1080
+            "stars": 1080,
+            "topics": [
+              "hacktoberfest",
+              "wagtail"
+            ]
           },
           "first_seen": "2026-08-28T16:35:36.811Z"
         },
@@ -1208,12 +1767,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Django project protecting American consumers",
+            "homepage": "https://www.consumerfinance.gov/",
             "id": 18852566,
             "language": "Python",
-            "last_commit": "2026-08-28T15:18:45Z",
+            "license": "CC0-1.0",
+            "last_commit": "2026-08-28T18:13:29Z",
+            "open_issues": 40,
             "owner": "cfpb",
             "repo": "consumerfinance.gov",
-            "stars": 332
+            "stars": 332,
+            "topics": [
+              "django",
+              "hacktoberfest",
+              "python",
+              "wagtail"
+            ]
           },
           "first_seen": "2026-08-28T16:35:36.811Z"
         },
@@ -1224,12 +1793,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the Outreachy website, based on Python, Django, and Bootstrap.",
+            "homepage": "https://www.outreachy.org",
             "id": 99189495,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-21T19:54:25Z",
+            "open_issues": 214,
             "owner": "outreachy",
             "repo": "website",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "css",
+              "django",
+              "documentation",
+              "html",
+              "javascript",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T16:35:36.811Z"
         },
@@ -1240,12 +1821,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The content management system (CMS) for the new Federal Election Commission website.",
+            "homepage": "https://www.fec.gov",
             "id": 40841283,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T16:37:10Z",
+            "open_issues": 486,
             "owner": "fecgov",
             "repo": "fec-cms",
-            "stars": 107
+            "stars": 107,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:36.811Z"
         },
@@ -1256,12 +1842,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A showcase of sites and apps made with Wagtail CMS, the easy to use, open source Django content management system",
+            "homepage": "http://madewithwagtail.org",
             "id": 34143563,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-07T20:50:09Z",
+            "open_issues": 31,
             "owner": "wagtail",
             "repo": "madewithwagtail",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "cms",
+              "django",
+              "hacktoberfest",
+              "python",
+              "showcase",
+              "wagtail"
+            ]
           },
           "first_seen": "2026-08-28T16:35:36.811Z"
         },
@@ -1272,12 +1870,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A website for Western Friend (westernfriend.org), a Quaker publication that provides resources and support for Quaker communities and individuals seeking to live out their faith in the world. Western Friend is part of the Religious Society of Friends.",
+            "homepage": "https://westernfriend.org",
             "id": 153502062,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-04-10T19:34:25Z",
+            "open_issues": 23,
             "owner": "WesternFriend",
             "repo": "westernfriend.org",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "community",
+              "django",
+              "ecommerce",
+              "ecommerce-website",
+              "friends",
+              "hacktoberfest",
+              "magazine",
+              "media-library",
+              "online-magazine",
+              "python",
+              "python3",
+              "quaker",
+              "quakers",
+              "subscription",
+              "subscriptions-and-payments",
+              "wagtail",
+              "wagtail-cms"
+            ]
           },
           "first_seen": "2026-08-28T16:35:36.811Z"
         },
@@ -1288,12 +1909,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the SecureDrop project website",
+            "homepage": "https://securedrop.org",
             "id": 99369601,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T01:17:29Z",
+            "open_issues": 57,
             "owner": "freedomofpress",
             "repo": "securedrop.org",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:36.811Z"
         },
@@ -1304,12 +1930,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A website to teach Wagtail CMS to content editors, moderators and administrators.",
+            "homepage": "https://guide.wagtail.org",
             "id": 496950708,
             "language": "Python",
-            "last_commit": "2026-08-26T15:13:30Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T17:07:55Z",
+            "open_issues": 55,
             "owner": "wagtail",
             "repo": "guide",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "django",
+              "hacktoberfest",
+              "tutorials",
+              "wagtail"
+            ]
           },
           "first_seen": "2026-08-28T16:35:36.811Z"
         },
@@ -1320,12 +1956,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wagtail/Django based website of the Bow Valley SPCA",
+            "homepage": "https://www.bowvalleyspca.org/",
             "id": 98236678,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-27T19:49:43Z",
+            "open_issues": 9,
             "owner": "nfletton",
             "repo": "bvspca",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "animals",
+              "django",
+              "spca",
+              "wagtail"
+            ]
           },
           "first_seen": "2026-08-28T16:35:36.811Z"
         },
@@ -1336,12 +1982,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Torchbox website 2024 incarnation",
+            "homepage": null,
             "id": 734248578,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T15:15:38Z",
+            "open_issues": 5,
             "owner": "torchbox",
             "repo": "torchbox.com",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:36.811Z"
         },
@@ -1352,12 +2003,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an example public library website using wagtail CMS. ",
+            "homepage": null,
             "id": 679038254,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-03T23:52:33Z",
+            "open_issues": 0,
             "owner": "danlerche",
             "repo": "public-library-wagtailCMS",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:36.811Z"
         }
@@ -1366,15 +2022,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:35:36.811Z",
+    "last_updated": "2026-08-29T04:24:43.276Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome packages, articles, and other cool resources from the Wagtail community.",
+      "homepage": "https://wagtail.github.io/awesome-wagtail/",
       "id": 63629422,
       "language": "Python",
+      "license": null,
       "last_commit": "2026-06-16T14:16:16Z",
+      "open_issues": 0,
       "owner": "wagtail",
       "repo": "awesome-wagtail",
-      "stars": 2188
+      "stars": 2188,
+      "topics": [
+        "awesome",
+        "cms",
+        "django-cms",
+        "hacktoberfest",
+        "python",
+        "wagtail"
+      ]
     },
     "original_repository_sha": "70a72b5b3529ed8bf4b88de2e9b64b7f7ef55d86",
     "enhanced_repository": "enhansome/enhansome-wagtail",
