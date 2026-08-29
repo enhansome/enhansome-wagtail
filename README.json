@@ -242,7 +242,7 @@
                 "open_issues": 15,
                 "owner": "wagtail",
                 "repo": "wagtail-generic-chooser",
-                "stars": 116,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
@@ -1497,8 +1497,8 @@
                 "id": 587313394,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-28T14:36:14Z",
-                "open_issues": 46,
+                "last_commit": "2026-08-29T09:47:43Z",
+                "open_issues": 47,
                 "owner": "numerique-gouv",
                 "repo": "sites-conformes",
                 "stars": 67,
@@ -1748,7 +1748,7 @@
             "id": 81445419,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T13:48:38Z",
+            "last_commit": "2026-08-29T08:38:50Z",
             "open_issues": 60,
             "owner": "wagtail",
             "repo": "bakerydemo",
@@ -1802,7 +1802,7 @@
             "open_issues": 214,
             "owner": "outreachy",
             "repo": "website",
-            "stars": 306,
+            "stars": 307,
             "topics": [
               "css",
               "django",
@@ -2022,7 +2022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:24:43.276Z",
+    "last_updated": "2026-08-29T11:01:46.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome packages, articles, and other cool resources from the Wagtail community.",
