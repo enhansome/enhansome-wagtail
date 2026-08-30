@@ -21,7 +21,7 @@
                 "open_issues": 65,
                 "owner": "coderedcorp",
                 "repo": "coderedcms",
-                "stars": 766,
+                "stars": 767,
                 "topics": [
                   "bootstrap",
                   "bootstrap5",
@@ -1556,7 +1556,7 @@
                 "open_issues": 4,
                 "owner": "wagtail",
                 "repo": "cookiecutter-wagtail-package",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "cookiecutter",
                   "cookiecutter-template",
@@ -1748,7 +1748,7 @@
             "id": 81445419,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T08:38:50Z",
+            "last_commit": "2026-08-30T07:54:51Z",
             "open_issues": 60,
             "owner": "wagtail",
             "repo": "bakerydemo",
@@ -2022,7 +2022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:01:46.264Z",
+    "last_updated": "2026-08-30T09:54:58.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome packages, articles, and other cool resources from the Wagtail community.",

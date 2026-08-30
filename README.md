@@ -3,7 +3,7 @@
 > A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 > [Wagtail](https://wagtail.org/) is a Python CMS powered by Django, focusing on flexibility and user experience.
 
-*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 11,224 | 🐛 10 | 🌐 Python | 📅 2026-08-18 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 316,877 | 🐛 18 | 🌐 Python | 📅 2026-08-25. :snake:*
+*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 11,224 | 🐛 10 | 🌐 Python | 📅 2026-08-18 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 317,095 | 🐛 18 | 🌐 Python | 📅 2026-08-25. :snake:*
 
 ## Contents
 
@@ -43,21 +43,21 @@
 ## General resources
 
 * [Official site](https://wagtail.org/)
-* [GitHub repository](https://github.com/wagtail/wagtail) ⭐ 20,468 | 🐛 1,013 | 🌐 Python | 📅 2026-08-29
+* [GitHub repository](https://github.com/wagtail/wagtail) ⭐ 20,470 | 🐛 1,013 | 🌐 Python | 📅 2026-08-29
 * [Project roadmap](https://wagtail.org/roadmap/)
 
 ## Apps
 
 ### Blogging/news
 
-* [Wagtail CRX (CodeRed Extensions)](https://github.com/coderedcorp/coderedcms) ⭐ 766 | 🐛 65 | 🌐 Python | 📅 2025-12-16 - Wagtail + CodeRed Extensions enabling rapid development of marketing-focused websites.
+* [Wagtail CRX (CodeRed Extensions)](https://github.com/coderedcorp/coderedcms) ⭐ 767 | 🐛 65 | 🌐 Python | 📅 2025-12-16 - Wagtail + CodeRed Extensions enabling rapid development of marketing-focused websites.
 * [Puput](https://github.com/APSL/puput) ⭐ 660 | 🐛 14 | 🌐 Python | 📅 2026-04-13 - A Django blog app implemented in Wagtail.
 
 ### Rich text editor extensions
 
 * [Wagtail EditorJS](https://github.com/Nigel2392/wagtail_editorjs) ⭐ 13 | 🐛 3 | 🌐 Python | 📅 2025-03-06 - An [EditorJS](https://editorjs.io/) widget with great support for Wagtail's page, image and document choosers.
 * [Wagtail Terms](https://github.com/smark-1/wagtailterms) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2026-08-24 - A plugin to add a glossary terms entity to the Draftail editor.
-* [wagtailmdx](https://github.com/julinodev/wagtailmdx) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-27 - A [MDXEditor](https://github.com/mdx-editor/editor) ⭐ 3,649 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-27 integration for Wagtail as textfield widget.
+* [wagtailmdx](https://github.com/julinodev/wagtailmdx) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-27 - A [MDXEditor](https://github.com/mdx-editor/editor) ⭐ 3,651 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-27 integration for Wagtail as textfield widget.
 
 ### Widgets
 
@@ -161,7 +161,7 @@
 * [Pipit](https://github.com/Frojd/Wagtail-Pipit) ⭐ 257 | 🐛 43 | 🌐 Python | 📅 2026-08-20 – Pipit is a Wagtail CMS boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
 * [Sites Conformes](https://github.com/numerique-gouv/sites-conformes) ⭐ 67 | 🐛 47 | 🌐 Python | 📅 2026-08-29 - Gestionnaire de contenu permettant de créer et gérer un site internet basé sur le Système de design de l'État, accessible et sécurisé. Basé sur Wagtail CMS.
 * [cookiecutter-wagtail-vix](https://github.com/engineervix/cookiecutter-wagtail-vix) ⭐ 40 | 🐛 15 | 🌐 Python | 📅 2026-08-20 - a minimal, batteries-included, reusable project skeleton to serve as a starting point for a Wagtail project.
-* [cookiecutter-wagtail-package](https://github.com/wagtail/cookiecutter-wagtail-package) ⭐ 23 | 🐛 4 | 🌐 Python | 📅 2026-08-26 - A cookiecutter template for building Wagtail add-on packages.
+* [cookiecutter-wagtail-package](https://github.com/wagtail/cookiecutter-wagtail-package) ⭐ 24 | 🐛 4 | 🌐 Python | 📅 2026-08-26 - A cookiecutter template for building Wagtail add-on packages.
 * [Wagtail for Platform.sh](https://github.com/platformsh-templates/wagtail) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-12-08 - Wagtail template for Platform.sh.
 
 ### Templates (start command)
@@ -378,7 +378,7 @@
 
 ## Open-source sites
 
-* [Wagtail demo project](https://github.com/wagtail/bakerydemo) ⭐ 1,080 | 🐛 60 | 🌐 Python | 📅 2026-08-29 – Next generation Wagtail demo, born in Reykjavík.
+* [Wagtail demo project](https://github.com/wagtail/bakerydemo) ⭐ 1,080 | 🐛 60 | 🌐 Python | 📅 2026-08-30 – Next generation Wagtail demo, born in Reykjavík.
 * [consumerfinance.gov](https://github.com/cfpb/consumerfinance.gov) ⭐ 332 | 🐛 40 | 🌐 Python | 📅 2026-08-28 – Django project protecting American consumers.
 * [Outreachy website](https://github.com/outreachy/website) ⭐ 307 | 🐛 214 | 🌐 HTML | 📅 2026-08-21 - Code for the Outreachy website, based on Python, Django, and Bootstrap.
 * [Federal Election Commission](https://github.com/fecgov/fec-cms) ⭐ 107 | 🐛 486 | 🌐 Python | 📅 2026-08-26 – The content management system (CMS) for the new Federal Election Commission website.
@@ -400,4 +400,4 @@ This work by [Springload](https://www.springload.co.nz/) and other contributors 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
