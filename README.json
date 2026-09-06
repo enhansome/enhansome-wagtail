@@ -21,7 +21,7 @@
                 "open_issues": 65,
                 "owner": "coderedcorp",
                 "repo": "coderedcms",
-                "stars": 767,
+                "stars": 766,
                 "topics": [
                   "bootstrap",
                   "bootstrap5",
@@ -1611,7 +1611,7 @@
                 "open_issues": 66,
                 "owner": "wagtail",
                 "repo": "news-template",
-                "stars": 187,
+                "stars": 188,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
@@ -1748,7 +1748,7 @@
             "id": 81445419,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-05T06:41:49Z",
+            "last_commit": "2026-09-06T06:52:16Z",
             "open_issues": 60,
             "owner": "wagtail",
             "repo": "bakerydemo",
@@ -1935,7 +1935,7 @@
             "id": 496950708,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T17:37:11Z",
+            "last_commit": "2026-09-05T10:29:53Z",
             "open_issues": 54,
             "owner": "wagtail",
             "repo": "guide",
@@ -2022,7 +2022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:19:49.523Z",
+    "last_updated": "2026-09-06T08:38:29.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome packages, articles, and other cool resources from the Wagtail community.",
@@ -2034,7 +2034,7 @@
       "open_issues": 1,
       "owner": "wagtail",
       "repo": "awesome-wagtail",
-      "stars": 2188,
+      "stars": 2189,
       "topics": [
         "awesome",
         "cms",
