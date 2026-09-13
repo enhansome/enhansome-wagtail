@@ -21,7 +21,7 @@
                 "open_issues": 65,
                 "owner": "coderedcorp",
                 "repo": "coderedcms",
-                "stars": 766,
+                "stars": 765,
                 "topics": [
                   "bootstrap",
                   "bootstrap5",
@@ -1748,7 +1748,7 @@
             "id": 81445419,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-12T06:53:18Z",
+            "last_commit": "2026-09-13T07:11:30Z",
             "open_issues": 60,
             "owner": "wagtail",
             "repo": "bakerydemo",
@@ -1830,7 +1830,7 @@
             "open_issues": 488,
             "owner": "fecgov",
             "repo": "fec-cms",
-            "stars": 107,
+            "stars": 108,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:36.811Z"
@@ -2022,7 +2022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:36:50.157Z",
+    "last_updated": "2026-09-13T09:30:10.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome packages, articles, and other cool resources from the Wagtail community.",
@@ -2034,7 +2034,7 @@
       "open_issues": 1,
       "owner": "wagtail",
       "repo": "awesome-wagtail",
-      "stars": 2189,
+      "stars": 2188,
       "topics": [
         "awesome",
         "cms",
