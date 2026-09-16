@@ -263,7 +263,7 @@
                 "open_issues": 11,
                 "owner": "springload",
                 "repo": "wagtailgmaps",
-                "stars": 85,
+                "stars": 84,
                 "topics": [
                   "google-maps",
                   "wagtail"
@@ -389,7 +389,7 @@
                 "open_issues": 6,
                 "owner": "wagtail-nest",
                 "repo": "wagtailcodeblock",
-                "stars": 172,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
@@ -410,7 +410,7 @@
                 "open_issues": 2,
                 "owner": "cfpb",
                 "repo": "wagtail-inventory",
-                "stars": 64,
+                "stars": 63,
                 "topics": [
                   "django",
                   "hacktoberfest",
@@ -623,7 +623,7 @@
                 "open_issues": 43,
                 "owner": "wagtail-nest",
                 "repo": "wagtail-personalisation",
-                "stars": 131,
+                "stars": 130,
                 "topics": [
                   "django",
                   "personalisation",
@@ -712,7 +712,7 @@
                 "open_issues": 26,
                 "owner": "torchbox",
                 "repo": "wagtailmedia",
-                "stars": 252,
+                "stars": 251,
                 "topics": [
                   "audio",
                   "django",
@@ -766,7 +766,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-07T10:58:34Z",
-                "open_issues": 176,
+                "open_issues": 178,
                 "owner": "wagtail",
                 "repo": "wagtail-localize",
                 "stars": 257,
@@ -795,7 +795,7 @@
                 "open_issues": 30,
                 "owner": "infoportugal",
                 "repo": "wagtail-modeltranslation",
-                "stars": 153,
+                "stars": 152,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
@@ -922,7 +922,7 @@
                 "open_issues": 20,
                 "owner": "wagtail",
                 "repo": "wagtail-factories",
-                "stars": 113,
+                "stars": 112,
                 "topics": [
                   "factory-boy",
                   "wagtail"
@@ -946,7 +946,7 @@
                 "open_issues": 1,
                 "owner": "neon-jungle",
                 "repo": "wagtail-linkchecker",
-                "stars": 52,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
@@ -967,7 +967,7 @@
                 "open_issues": 8,
                 "owner": "wagtail-nest",
                 "repo": "wagtail-accessibility",
-                "stars": 36,
+                "stars": 35,
                 "topics": [
                   "accessibility",
                   "django",
@@ -995,8 +995,8 @@
                 "id": 132007145,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-04-10T20:49:40Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-15T19:07:36Z",
+                "open_issues": 4,
                 "owner": "cfpb",
                 "repo": "wagtail-treemodeladmin",
                 "stars": 53,
@@ -1124,7 +1124,7 @@
                 "open_issues": 5,
                 "owner": "cfpb",
                 "repo": "wagtail-sharing",
-                "stars": 56,
+                "stars": 55,
                 "topics": [
                   "django",
                   "hacktoberfest",
@@ -1205,7 +1205,7 @@
                 "open_issues": 19,
                 "owner": "jazzband",
                 "repo": "wagtailmenus",
-                "stars": 421,
+                "stars": 420,
                 "topics": [
                   "django",
                   "menus",
@@ -1525,7 +1525,7 @@
                 "id": 252283306,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-20T17:56:37Z",
+                "last_commit": "2026-09-15T10:47:20Z",
                 "open_issues": 15,
                 "owner": "engineervix",
                 "repo": "cookiecutter-wagtail-vix",
@@ -1552,8 +1552,8 @@
                 "id": 296870281,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T01:03:58Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-16T09:05:13Z",
+                "open_issues": 4,
                 "owner": "wagtail",
                 "repo": "cookiecutter-wagtail-package",
                 "stars": 24,
@@ -1748,11 +1748,11 @@
             "id": 81445419,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-15T07:13:35Z",
+            "last_commit": "2026-09-16T07:16:25Z",
             "open_issues": 60,
             "owner": "wagtail",
             "repo": "bakerydemo",
-            "stars": 1083,
+            "stars": 1084,
             "topics": [
               "hacktoberfest",
               "wagtail"
@@ -1826,11 +1826,11 @@
             "id": 40841283,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T14:54:52Z",
-            "open_issues": 488,
+            "last_commit": "2026-09-15T20:09:21Z",
+            "open_issues": 487,
             "owner": "fecgov",
             "repo": "fec-cms",
-            "stars": 108,
+            "stars": 107,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:36.811Z"
@@ -1847,8 +1847,8 @@
             "id": 34143563,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T15:33:51Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-16T09:15:15Z",
+            "open_issues": 0,
             "owner": "wagtail",
             "repo": "madewithwagtail",
             "stars": 91,
@@ -1935,7 +1935,7 @@
             "id": 496950708,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-05T10:29:53Z",
+            "last_commit": "2026-09-15T22:33:43Z",
             "open_issues": 53,
             "owner": "wagtail",
             "repo": "guide",
@@ -2022,7 +2022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T09:23:12.564Z",
+    "last_updated": "2026-09-16T09:16:03.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome packages, articles, and other cool resources from the Wagtail community.",
@@ -2034,7 +2034,7 @@
       "open_issues": 1,
       "owner": "wagtail",
       "repo": "awesome-wagtail",
-      "stars": 2188,
+      "stars": 2190,
       "topics": [
         "awesome",
         "cms",
