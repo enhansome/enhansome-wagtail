@@ -3,7 +3,7 @@
 > A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 > [Wagtail](https://wagtail.org/) is a Python CMS powered by Django, focusing on flexibility and user experience.
 
-*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 11,245 | 🐛 4 | 🌐 Python | 📅 2026-09-06 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 320,953 | 🐛 19 | 🌐 Python | 📅 2026-09-15. :snake:*
+*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 11,249 | 🐛 4 | 🌐 Python | 📅 2026-09-16 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 321,198 | 🐛 20 | 🌐 Python | 📅 2026-09-15. :snake:*
 
 ## Contents
 
@@ -43,7 +43,7 @@
 ## General resources
 
 * [Official site](https://wagtail.org/)
-* [GitHub repository](https://github.com/wagtail/wagtail) ⭐ 20,498 | 🐛 1,002 | 🌐 Python | 📅 2026-09-15
+* [GitHub repository](https://github.com/wagtail/wagtail) ⭐ 20,503 | 🐛 1,003 | 🌐 Python | 📅 2026-09-16
 * [Project roadmap](https://wagtail.org/roadmap/)
 
 ## Apps
@@ -51,13 +51,13 @@
 ### Blogging/news
 
 * [Wagtail CRX (CodeRed Extensions)](https://github.com/coderedcorp/coderedcms) ⭐ 765 | 🐛 65 | 🌐 Python | 📅 2025-12-16 - Wagtail + CodeRed Extensions enabling rapid development of marketing-focused websites.
-* [Puput](https://github.com/APSL/puput) ⭐ 660 | 🐛 14 | 🌐 Python | 📅 2026-04-13 - A Django blog app implemented in Wagtail.
+* [Puput](https://github.com/APSL/puput) ⭐ 660 | 🐛 15 | 🌐 Python | 📅 2026-04-13 - A Django blog app implemented in Wagtail.
 
 ### Rich text editor extensions
 
 * [Wagtail EditorJS](https://github.com/Nigel2392/wagtail_editorjs) ⭐ 13 | 🐛 3 | 🌐 Python | 📅 2025-03-06 - An [EditorJS](https://editorjs.io/) widget with great support for Wagtail's page, image and document choosers.
 * [Wagtail Terms](https://github.com/smark-1/wagtailterms) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2026-09-14 - A plugin to add a glossary terms entity to the Draftail editor.
-* [wagtailmdx](https://github.com/julinodev/wagtailmdx) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-27 - A [MDXEditor](https://github.com/mdx-editor/editor) ⭐ 3,674 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-13 integration for Wagtail as textfield widget.
+* [wagtailmdx](https://github.com/julinodev/wagtailmdx) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-27 - A [MDXEditor](https://github.com/mdx-editor/editor) ⭐ 3,676 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-13 integration for Wagtail as textfield widget.
 
 ### Widgets
 
@@ -82,7 +82,7 @@
 
 ### Settings management
 
-* [Wagtail-Flags](https://github.com/cfpb/wagtail-flags) ⭐ 91 | 🐛 3 | 🌐 Python | 📅 2026-04-27 - Feature flags for Wagtail sites.
+* [Wagtail-Flags](https://github.com/cfpb/wagtail-flags) ⭐ 91 | 🐛 4 | 🌐 Python | 📅 2026-09-16 - Feature flags for Wagtail sites.
 
 ### E-commerce
 
@@ -111,7 +111,7 @@
 ### Translations
 
 * [Wagtail Localize](https://github.com/wagtail/wagtail-localize) ⭐ 257 | 🐛 178 | 🌐 Python | 📅 2026-09-07 - Translation plugin for Wagtail CMS.
-* [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) ⭐ 152 | 🐛 30 | 🌐 Python | 📅 2026-02-03 - Simple app containing a mixin model that integrates [django-modeltranslation](https://github.com/deschler/django-modeltranslation) ⭐ 1,481 | 🐛 131 | 🌐 Python | 📅 2026-09-07 into Wagtail panels system.
+* [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) ⭐ 152 | 🐛 30 | 🌐 Python | 📅 2026-02-03 - Simple app containing a mixin model that integrates [django-modeltranslation](https://github.com/deschler/django-modeltranslation) ⭐ 1,481 | 🐛 130 | 🌐 Python | 📅 2026-09-17 into Wagtail panels system.
 
 ### Forms
 
@@ -378,16 +378,16 @@
 
 ## Open-source sites
 
-* [Wagtail demo project](https://github.com/wagtail/bakerydemo) ⭐ 1,084 | 🐛 60 | 🌐 Python | 📅 2026-09-16 – Next generation Wagtail demo, born in Reykjavík.
+* [Wagtail demo project](https://github.com/wagtail/bakerydemo) ⭐ 1,084 | 🐛 60 | 🌐 Python | 📅 2026-09-17 – Next generation Wagtail demo, born in Reykjavík.
 * [consumerfinance.gov](https://github.com/cfpb/consumerfinance.gov) ⭐ 333 | 🐛 38 | 🌐 Python | 📅 2026-09-14 – Django project protecting American consumers.
 * [Outreachy website](https://github.com/outreachy/website) ⭐ 310 | 🐛 214 | 🌐 HTML | 📅 2026-08-21 - Code for the Outreachy website, based on Python, Django, and Bootstrap.
-* [Federal Election Commission](https://github.com/fecgov/fec-cms) ⭐ 107 | 🐛 487 | 🌐 Python | 📅 2026-09-15 – The content management system (CMS) for the new Federal Election Commission website.
-* [Made with Wagtail](https://github.com/springload/madewithwagtail) ⭐ 91 | 🐛 0 | 🌐 Python | 📅 2026-09-16 - A showcase of sites and apps made with Wagtail CMS, the easy to use, open source Django content management system.
+* [Federal Election Commission](https://github.com/fecgov/fec-cms) ⭐ 107 | 🐛 488 | 🌐 Python | 📅 2026-09-15 – The content management system (CMS) for the new Federal Election Commission website.
+* [Made with Wagtail](https://github.com/springload/madewithwagtail) ⭐ 91 | 🐛 2 | 🌐 Python | 📅 2026-09-16 - A showcase of sites and apps made with Wagtail CMS, the easy to use, open source Django content management system.
 * [Western Friend website](https://github.com/WesternFriend/westernfriend.org) ⭐ 62 | 🐛 23 | 🌐 Python | 📅 2026-04-10 - A website for Western Friend (westernfriend.org), a Quaker publication that provides resources and support for Quaker communities and individuals seeking to live out their faith in the world. Western Friend is part of the Religious Society of Friends.
-* [SecureDrop](https://github.com/freedomofpress/securedrop.org) ⭐ 45 | 🐛 59 | 🌐 Python | 📅 2026-09-13 – Wagtail-powered website of the SecureDrop whistleblower document submission system.
+* [SecureDrop](https://github.com/freedomofpress/securedrop.org) ⭐ 45 | 🐛 57 | 🌐 Python | 📅 2026-09-17 – Wagtail-powered website of the SecureDrop whistleblower document submission system.
 * [Wagtail user guide](https://github.com/wagtail/guide) ⭐ 36 | 🐛 53 | 🌐 Python | 📅 2026-09-15 - A website to teach Wagtail to content editors, moderators and administrators.
 * [Bow Valley SPCA Website](https://github.com/nfletton/bvspca) ⭐ 10 | 🐛 9 | 🌐 Python | 📅 2025-05-27 – Wagtail/Django based website of the Bow Valley SPCA.
-* [Torchbox.com on Wagtail](https://github.com/torchbox/torchbox.com) ⭐ 9 | 🐛 7 | 🌐 Python | 📅 2026-09-14 – Torchbox website 2024 incarnation.
+* [Torchbox.com on Wagtail](https://github.com/torchbox/torchbox.com) ⭐ 9 | 🐛 8 | 🌐 Python | 📅 2026-09-16 – Torchbox website 2024 incarnation.
 * [Penticon Public Library](https://github.com/danlerche/public-library-wagtailCMS) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-03 - This is an example public library website using wagtail CMS.
 
 ## Contribute
@@ -400,4 +400,4 @@ This work by [Springload](https://www.springload.co.nz/) and other contributors 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
