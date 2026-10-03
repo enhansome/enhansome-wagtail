@@ -1748,7 +1748,7 @@
             "id": 81445419,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T07:57:39Z",
+            "last_commit": "2026-10-03T07:37:49Z",
             "open_issues": 60,
             "owner": "wagtail",
             "repo": "bakerydemo",
@@ -1936,7 +1936,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-02T10:16:46Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "wagtail",
             "repo": "guide",
             "stars": 36,
@@ -2022,7 +2022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:14:01.308Z",
+    "last_updated": "2026-10-03T09:49:53.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome packages, articles, and other cool resources from the Wagtail community.",
