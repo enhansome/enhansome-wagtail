@@ -765,7 +765,7 @@
                 "id": 179706908,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T09:20:51Z",
+                "last_commit": "2026-10-03T11:38:05Z",
                 "open_issues": 181,
                 "owner": "wagtail",
                 "repo": "wagtail-localize",
@@ -1748,7 +1748,7 @@
             "id": 81445419,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T07:37:49Z",
+            "last_commit": "2026-10-04T07:47:51Z",
             "open_issues": 60,
             "owner": "wagtail",
             "repo": "bakerydemo",
@@ -1876,7 +1876,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-30T15:26:01Z",
-            "open_issues": 78,
+            "open_issues": 81,
             "owner": "WesternFriend",
             "repo": "westernfriend.org",
             "stars": 63,
@@ -2022,7 +2022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:49:53.913Z",
+    "last_updated": "2026-10-04T10:32:58.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome packages, articles, and other cool resources from the Wagtail community.",
