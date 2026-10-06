@@ -3,7 +3,7 @@
 > A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 > [Wagtail](https://wagtail.org/) is a Python CMS powered by Django, focusing on flexibility and user experience.
 
-*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 11,271 | 🐛 4 | 🌐 Python | 📅 2026-10-04 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 325,515 | 🐛 19 | 🌐 Python | 📅 2026-10-02. :snake:*
+*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 11,271 | 🐛 4 | 🌐 Python | 📅 2026-10-04 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 325,517 | 🐛 19 | 🌐 Python | 📅 2026-10-02. :snake:*
 
 ## Contents
 
@@ -43,7 +43,7 @@
 ## General resources
 
 * [Official site](https://wagtail.org/)
-* [GitHub repository](https://github.com/wagtail/wagtail) ⭐ 20,529 | 🐛 1,012 | 🌐 Python | 📅 2026-10-06
+* [GitHub repository](https://github.com/wagtail/wagtail) ⭐ 20,529 | 🐛 1,014 | 🌐 Python | 📅 2026-10-06
 * [Project roadmap](https://wagtail.org/roadmap/)
 
 ## Apps
@@ -383,11 +383,11 @@
 * [Outreachy website](https://github.com/outreachy/website) ⭐ 309 | 🐛 214 | 🌐 HTML | 📅 2026-08-21 - Code for the Outreachy website, based on Python, Django, and Bootstrap.
 * [Federal Election Commission](https://github.com/fecgov/fec-cms) ⭐ 107 | 🐛 485 | 🌐 Python | 📅 2026-10-05 – The content management system (CMS) for the new Federal Election Commission website.
 * [Made with Wagtail](https://github.com/springload/madewithwagtail) ⭐ 91 | 🐛 13 | 🌐 Python | 📅 2026-10-05 - A showcase of sites and apps made with Wagtail CMS, the easy to use, open source Django content management system.
-* [Western Friend website](https://github.com/WesternFriend/westernfriend.org) ⭐ 63 | 🐛 81 | 🌐 Python | 📅 2026-09-30 - A website for Western Friend (westernfriend.org), a Quaker publication that provides resources and support for Quaker communities and individuals seeking to live out their faith in the world. Western Friend is part of the Religious Society of Friends.
+* [Western Friend website](https://github.com/WesternFriend/westernfriend.org) ⭐ 63 | 🐛 86 | 🌐 Python | 📅 2026-09-30 - A website for Western Friend (westernfriend.org), a Quaker publication that provides resources and support for Quaker communities and individuals seeking to live out their faith in the world. Western Friend is part of the Religious Society of Friends.
 * [SecureDrop](https://github.com/freedomofpress/securedrop.org) ⭐ 45 | 🐛 75 | 🌐 Python | 📅 2026-10-06 – Wagtail-powered website of the SecureDrop whistleblower document submission system.
 * [Wagtail user guide](https://github.com/wagtail/guide) ⭐ 36 | 🐛 56 | 🌐 Python | 📅 2026-10-05 - A website to teach Wagtail to content editors, moderators and administrators.
 * [Bow Valley SPCA Website](https://github.com/nfletton/bvspca) ⭐ 10 | 🐛 9 | 🌐 Python | 📅 2025-05-27 – Wagtail/Django based website of the Bow Valley SPCA.
-* [Torchbox.com on Wagtail](https://github.com/torchbox/torchbox.com) ⭐ 9 | 🐛 7 | 🌐 Python | 📅 2026-09-30 – Torchbox website 2024 incarnation.
+* [Torchbox.com on Wagtail](https://github.com/torchbox/torchbox.com) ⭐ 9 | 🐛 8 | 🌐 Python | 📅 2026-09-30 – Torchbox website 2024 incarnation.
 * [Penticon Public Library](https://github.com/danlerche/public-library-wagtailCMS) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-23 - This is an example public library website using wagtail CMS.
 
 ## Contribute

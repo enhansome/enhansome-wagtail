@@ -1876,7 +1876,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-30T15:26:01Z",
-            "open_issues": 81,
+            "open_issues": 86,
             "owner": "WesternFriend",
             "repo": "westernfriend.org",
             "stars": 63,
@@ -1988,7 +1988,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-30T13:54:00Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "torchbox",
             "repo": "torchbox.com",
             "stars": 9,
@@ -2022,7 +2022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:58:37.858Z",
+    "last_updated": "2026-10-06T11:13:45.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome packages, articles, and other cool resources from the Wagtail community.",
