@@ -946,7 +946,7 @@
                 "open_issues": 1,
                 "owner": "neon-jungle",
                 "repo": "wagtail-linkchecker",
-                "stars": 52,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:36.811Z"
@@ -1748,11 +1748,11 @@
             "id": 81445419,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-17T06:35:26Z",
+            "last_commit": "2026-10-18T06:58:20Z",
             "open_issues": 62,
             "owner": "wagtail",
             "repo": "bakerydemo",
-            "stars": 1086,
+            "stars": 1085,
             "topics": [
               "hacktoberfest",
               "wagtail"
@@ -1875,8 +1875,8 @@
             "id": 153502062,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-17T04:28:56Z",
-            "open_issues": 83,
+            "last_commit": "2026-10-17T17:38:25Z",
+            "open_issues": 89,
             "owner": "WesternFriend",
             "repo": "westernfriend.org",
             "stars": 64,
@@ -2022,7 +2022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:30:57.615Z",
+    "last_updated": "2026-10-18T08:49:04.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome packages, articles, and other cool resources from the Wagtail community.",
@@ -2034,7 +2034,7 @@
       "open_issues": 1,
       "owner": "wagtail",
       "repo": "awesome-wagtail",
-      "stars": 2191,
+      "stars": 2190,
       "topics": [
         "awesome",
         "cms",
