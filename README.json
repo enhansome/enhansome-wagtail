@@ -1497,7 +1497,7 @@
                 "id": 587313394,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-29T10:32:15Z",
+                "last_commit": "2026-10-29T15:55:49Z",
                 "open_issues": 54,
                 "owner": "numerique-gouv",
                 "repo": "sites-conformes",
@@ -1748,11 +1748,11 @@
             "id": 81445419,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-29T08:03:03Z",
+            "last_commit": "2026-10-30T08:05:46Z",
             "open_issues": 63,
             "owner": "wagtail",
             "repo": "bakerydemo",
-            "stars": 1086,
+            "stars": 1087,
             "topics": [
               "hacktoberfest",
               "wagtail"
@@ -1772,7 +1772,7 @@
             "id": 18852566,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-28T21:27:19Z",
+            "last_commit": "2026-10-29T19:18:21Z",
             "open_issues": 41,
             "owner": "cfpb",
             "repo": "consumerfinance.gov",
@@ -1827,7 +1827,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-28T10:17:50Z",
-            "open_issues": 496,
+            "open_issues": 499,
             "owner": "fecgov",
             "repo": "fec-cms",
             "stars": 107,
@@ -1914,7 +1914,7 @@
             "id": 99369601,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-28T19:41:50Z",
+            "last_commit": "2026-10-30T10:47:49Z",
             "open_issues": 64,
             "owner": "freedomofpress",
             "repo": "securedrop.org",
@@ -2022,7 +2022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T10:51:36.565Z",
+    "last_updated": "2026-10-30T10:50:00.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome packages, articles, and other cool resources from the Wagtail community.",
