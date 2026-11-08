@@ -21,7 +21,7 @@
                 "open_issues": 64,
                 "owner": "coderedcorp",
                 "repo": "coderedcms",
-                "stars": 762,
+                "stars": 763,
                 "topics": [
                   "bootstrap",
                   "bootstrap5",
@@ -51,7 +51,7 @@
                 "open_issues": 15,
                 "owner": "APSL",
                 "repo": "puput",
-                "stars": 658,
+                "stars": 659,
                 "topics": [
                   "blog",
                   "blogging",
@@ -1525,7 +1525,7 @@
                 "id": 252283306,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T09:48:38Z",
+                "last_commit": "2026-11-08T06:07:05Z",
                 "open_issues": 15,
                 "owner": "engineervix",
                 "repo": "cookiecutter-wagtail-vix",
@@ -1748,7 +1748,7 @@
             "id": 81445419,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-07T08:21:39Z",
+            "last_commit": "2026-11-08T08:37:51Z",
             "open_issues": 63,
             "owner": "wagtail",
             "repo": "bakerydemo",
@@ -2022,7 +2022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:00:15.596Z",
+    "last_updated": "2026-11-08T11:14:12.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome packages, articles, and other cool resources from the Wagtail community.",
