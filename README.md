@@ -3,7 +3,7 @@
 > A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 > [Wagtail](https://wagtail.org/) is a Python CMS powered by Django, focusing on flexibility and user experience.
 
-*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 11,311 | 🐛 7 | 🌐 Python | 📅 2026-10-26 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 336,844 | 🐛 23 | 🌐 Python | 📅 2026-11-17. :snake:*
+*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 11,312 | 🐛 7 | 🌐 Python | 📅 2026-10-26 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 337,051 | 🐛 25 | 🌐 Python | 📅 2026-11-17. :snake:*
 
 ## Contents
 
@@ -42,8 +42,8 @@
 
 ## General resources
 
-* [Code repository](https://github.com/wagtail/wagtail) ⭐ 20,729 | 🐛 1,018 | 🌐 Python | 📅 2026-11-23
-* [Official demo](https://github.com/wagtail/bakerydemo) ⭐ 1,089 | 🐛 63 | 🌐 Python | 📅 2026-11-24
+* [Code repository](https://github.com/wagtail/wagtail) ⭐ 20,757 | 🐛 1,019 | 🌐 Python | 📅 2026-11-25
+* [Official demo](https://github.com/wagtail/bakerydemo) ⭐ 1,089 | 🐛 63 | 🌐 Python | 📅 2026-11-25
 * [Official site](https://wagtail.org/)
 * [User guide](https://guide.wagtail.org/)
 * [Developer docs](https://docs.wagtail.org/)
@@ -66,7 +66,7 @@
 
 * [wagtail-markdown](https://github.com/torchbox/wagtail-markdown) ⭐ 220 | 🐛 11 | 🌐 Python | 📅 2026-10-05 - Markdown support for Wagtail.
 * [Wagtail-Geo-Widget](https://github.com/Frojd/wagtail-geo-widget) ⭐ 152 | 🐛 13 | 🌐 Python | 📅 2025-11-09 - Google Maps widget for the GeoDjango PointField field in Wagtail.
-* [wagtail-autocomplete](https://github.com/wagtail/wagtail-autocomplete) ⭐ 131 | 🐛 60 | 🌐 Python | 📅 2026-11-23 - Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields.
+* [wagtail-autocomplete](https://github.com/wagtail/wagtail-autocomplete) ⭐ 131 | 🐛 59 | 🌐 Python | 📅 2026-11-23 - Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields.
 * [wagtail-generic-chooser](https://github.com/wagtail/wagtail-generic-chooser) ⭐ 115 | 🐛 15 | 🌐 Python | 📅 2026-08-26 - provides base classes for building chooser popups and form widgets for the Wagtail admin, matching the look and feel of Wagtail's built-in choosers for pages, documents, snippets and images.
 * [wagtailgmaps](https://github.com/springload/wagtailgmaps) ⭐ 83 | 🐛 11 | 🌐 Python | 📅 2025-06-17 - Simple Google Maps address formatter for Wagtail fields.
 * [Wagtail-Color-Panel](https://github.com/marteinn/wagtail-color-panel) ⭐ 58 | 🐛 3 | 🌐 Python | 📅 2026-04-12 - A package that adds new panels for selecting colors, works both on regular page fields and stream field.
@@ -117,7 +117,7 @@
 
 ### Forms
 
-* [Wagtail ReCaptcha](https://github.com/wagtail-nest/wagtail-django-recaptcha) ⭐ 63 | 🐛 14 | 🌐 Python | 📅 2026-05-06 - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha](https://github.com/django-recaptcha/django-recaptcha) ⭐ 1,028 | 🐛 26 | 🌐 Python | 📅 2026-11-16 field when using the Wagtail formbuilder.
+* [Wagtail ReCaptcha](https://github.com/wagtail-nest/wagtail-django-recaptcha) ⭐ 63 | 🐛 14 | 🌐 Python | 📅 2026-05-06 - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha](https://github.com/django-recaptcha/django-recaptcha) ⭐ 1,029 | 🐛 26 | 🌐 Python | 📅 2026-11-16 field when using the Wagtail formbuilder.
 * [Wagtail Model Forms](https://github.com/vicktornl/wagtail-model-forms) ⭐ 11 | 🐛 5 | 🌐 Python | 📅 2026-11-16 - The Wagtail Form Builder functionalities available for your models/snippets.
 * [Wagtail Formation](https://github.com/mwesterhof/wagtail_formation) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-11-26 - Fully dynamic and easy to use CMS-able forms for wagtail.
 * [Wagtail Jotform](https://github.com/torchbox/wagtail-jotform) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-05-26 - A plugin for using jotforms in wagtail.
@@ -159,9 +159,9 @@
 ### Templates & Starter Kits
 
 * [Pipit](https://github.com/Frojd/Wagtail-Pipit) ⭐ 258 | 🐛 49 | 🌐 Python | 📅 2026-11-12 – Pipit is a Wagtail CMS boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
-* [Sites Conformes](https://github.com/numerique-gouv/sites-conformes) ⭐ 70 | 🐛 58 | 🌐 Python | 📅 2026-11-24 - Gestionnaire de contenu permettant de créer et gérer un site internet basé sur le Système de design de l'État, accessible et sécurisé. Basé sur Wagtail CMS.
+* [Sites Conformes](https://github.com/numerique-gouv/sites-conformes) ⭐ 70 | 🐛 59 | 🌐 Python | 📅 2026-11-25 - Gestionnaire de contenu permettant de créer et gérer un site internet basé sur le Système de design de l'État, accessible et sécurisé. Basé sur Wagtail CMS.
 * [cookiecutter-wagtail-vix](https://github.com/engineervix/cookiecutter-wagtail-vix) ⭐ 40 | 🐛 14 | 🌐 Python | 📅 2026-11-23 - a minimal, batteries-included, reusable project skeleton to serve as a starting point for a Wagtail project.
-* [cookiecutter-wagtail-package](https://github.com/wagtail/cookiecutter-wagtail-package) ⭐ 24 | 🐛 5 | 🌐 Python | 📅 2026-11-23 - A cookiecutter template for building Wagtail add-on packages.
+* [cookiecutter-wagtail-package](https://github.com/wagtail/cookiecutter-wagtail-package) ⭐ 24 | 🐛 5 | 🌐 Python | 📅 2026-11-25 - A cookiecutter template for building Wagtail add-on packages.
 * [Wagtail for Platform.sh](https://github.com/platformsh-templates/wagtail) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-12-08 - Wagtail template for Platform.sh.
 
 ### Templates (start command)
@@ -373,12 +373,12 @@
 
 ## Open-source sites
 
-* [consumerfinance.gov](https://github.com/cfpb/consumerfinance.gov) ⭐ 331 | 🐛 39 | 🌐 Python | 📅 2026-11-23 – Django project protecting American consumers.
+* [consumerfinance.gov](https://github.com/cfpb/consumerfinance.gov) ⭐ 331 | 🐛 38 | 🌐 Python | 📅 2026-11-24 – Django project protecting American consumers.
 * [Outreachy website](https://github.com/outreachy/website) ⭐ 311 | 🐛 217 | 🌐 HTML | 📅 2026-10-28 - Code for the Outreachy website, based on Python, Django, and Bootstrap.
-* [Federal Election Commission](https://github.com/fecgov/fec-cms) ⭐ 106 | 🐛 494 | 🌐 Python | 📅 2026-11-23 – The content management system (CMS) for the new Federal Election Commission website.
+* [Federal Election Commission](https://github.com/fecgov/fec-cms) ⭐ 106 | 🐛 495 | 🌐 Python | 📅 2026-11-24 – The content management system (CMS) for the new Federal Election Commission website.
 * [Western Friend website](https://github.com/WesternFriend/westernfriend.org) ⭐ 65 | 🐛 75 | 🌐 Python | 📅 2026-11-22 - A website for Western Friend (westernfriend.org), a Quaker publication that provides resources and support for Quaker communities and individuals seeking to live out their faith in the world. Western Friend is part of the Religious Society of Friends.
-* [SecureDrop](https://github.com/freedomofpress/securedrop.org) ⭐ 45 | 🐛 82 | 🌐 Python | 📅 2026-11-24 – Wagtail-powered code for the SecureDrop whistleblower document submission system website.
-* [Wagtail user guide](https://github.com/wagtail/guide) ⭐ 36 | 🐛 80 | 🌐 Python | 📅 2026-11-24 - A website to teach Wagtail to content editors, moderators and administrators.
+* [SecureDrop](https://github.com/freedomofpress/securedrop.org) ⭐ 45 | 🐛 81 | 🌐 Python | 📅 2026-11-25 – Wagtail-powered code for the SecureDrop whistleblower document submission system website.
+* [Wagtail user guide](https://github.com/wagtail/guide) ⭐ 36 | 🐛 81 | 🌐 Python | 📅 2026-11-24 - A website to teach Wagtail to content editors, moderators and administrators.
 * [Bow Valley SPCA Website](https://github.com/nfletton/bvspca) ⭐ 10 | 🐛 9 | 🌐 Python | 📅 2025-05-27 – Wagtail/Django based website of the Bow Valley SPCA.
 * [Torchbox.com on Wagtail](https://github.com/torchbox/torchbox.com) ⭐ 9 | 🐛 17 | 🌐 Python | 📅 2026-11-23 – Torchbox digital agency website.
 * [Penticon Public Library](https://github.com/danlerche/public-library-wagtailCMS) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15 - This is an example public library website using wagtail CMS.
@@ -393,4 +393,4 @@ This work by [Springload](https://www.springload.co.nz/) and other contributors 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
