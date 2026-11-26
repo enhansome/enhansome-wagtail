@@ -3,7 +3,7 @@
 > A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 > [Wagtail](https://wagtail.org/) is a Python CMS powered by Django, focusing on flexibility and user experience.
 
-*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 11,312 | 🐛 7 | 🌐 Python | 📅 2026-10-26 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 337,051 | 🐛 25 | 🌐 Python | 📅 2026-11-17. :snake:*
+*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 11,311 | 🐛 7 | 🌐 Python | 📅 2026-10-26 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 337,262 | 🐛 26 | 🌐 Python | 📅 2026-11-17. :snake:*
 
 ## Contents
 
@@ -42,8 +42,8 @@
 
 ## General resources
 
-* [Code repository](https://github.com/wagtail/wagtail) ⭐ 20,757 | 🐛 1,019 | 🌐 Python | 📅 2026-11-25
-* [Official demo](https://github.com/wagtail/bakerydemo) ⭐ 1,089 | 🐛 63 | 🌐 Python | 📅 2026-11-25
+* [Code repository](https://github.com/wagtail/wagtail) ⭐ 20,780 | 🐛 1,021 | 🌐 Python | 📅 2026-11-26
+* [Official demo](https://github.com/wagtail/bakerydemo) ⭐ 1,089 | 🐛 63 | 🌐 Python | 📅 2026-11-26
 * [Official site](https://wagtail.org/)
 * [User guide](https://guide.wagtail.org/)
 * [Developer docs](https://docs.wagtail.org/)
@@ -53,7 +53,7 @@
 
 ### Blogging/news
 
-* [Wagtail CRX (CodeRed Extensions)](https://github.com/coderedcorp/coderedcms) ⭐ 763 | 🐛 60 | 🌐 Python | 📅 2026-11-19 - Wagtail + CodeRed Extensions enabling rapid development of marketing-focused websites.
+* [Wagtail CRX (CodeRed Extensions)](https://github.com/coderedcorp/coderedcms) ⭐ 763 | 🐛 61 | 🌐 Python | 📅 2026-11-19 - Wagtail + CodeRed Extensions enabling rapid development of marketing-focused websites.
 * [Puput](https://github.com/APSL/puput) ⭐ 661 | 🐛 15 | 🌐 Python | 📅 2026-04-13 - A Django blog app implemented in Wagtail.
 * [Commentail](https://github.com/hardcodd/Commentail) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-11-18 - Self-hosted comments for Wagtail with moderation, email-verified guests and threaded replies.
 
@@ -93,7 +93,7 @@
 ### SEO and SMO
 
 * [Wagtail SEO](https://github.com/coderedcorp/wagtail-seo) ⭐ 94 | 🐛 12 | 🌐 Python | 📅 2026-11-20 - Search engine and social media optimization for Wagtail.
-* [wagtail-meta-preview](https://github.com/Frojd/wagtail-meta-preview) ⭐ 37 | 🐛 6 | 🌐 Python | 📅 2026-11-23 - Wagtail Meta Preview provides panels for previewing Facebook sharing, Twitter sharing and Google search results in the Wagtail admin.
+* [wagtail-meta-preview](https://github.com/Frojd/wagtail-meta-preview) ⭐ 37 | 🐛 6 | 🌐 Python | 📅 2026-11-25 - Wagtail Meta Preview provides panels for previewing Facebook sharing, Twitter sharing and Google search results in the Wagtail admin.
 * [Wagtail Yoast](https://github.com/Aleksi44/wagtailyoast) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2026-07-29 - Wagtail + Yoast: improve readability of your texts with SEO recommendations.
 
 ### Customer experience
@@ -149,7 +149,7 @@
 * [Wagtail Resume](https://github.com/adinhodovic/wagtail-resume) ⭐ 97 | 🐛 0 | 🌐 Python | 📅 2026-07-03 – A Wagtail project made to simplify creation of resumes for developers.
 * [Wagtail Cache](https://github.com/coderedcorp/wagtail-cache) ⭐ 90 | 🐛 7 | 🌐 Python | 📅 2026-11-20 - A simple page cache for Wagtail using the Django cache middleware.
 * [Wagtail Gridder](https://github.com/wharton/wagtailgridder) ⭐ 67 | 🐛 1 | 🌐 Python | 📅 2025-07-29 - Grid card layout similar to Google image search results, with an expanded area for card details.
-* [Wagtail Trash](https://github.com/Frojd/wagtail-trash) ⭐ 43 | 🐛 7 | 🌐 Python | 📅 2026-11-16 - Instead of deleting pages when pressing delete, pages will get thrown into the "Trash Can".
+* [Wagtail Trash](https://github.com/Frojd/wagtail-trash) ⭐ 43 | 🐛 7 | 🌐 Python | 📅 2026-11-25 - Instead of deleting pages when pressing delete, pages will get thrown into the "Trash Can".
 * [Wagtail App Pages](https://github.com/mwesterhof/wagtail_app_pages) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2026-09-02 - Full MVC support for Wagtail pages, using an actual URL config and django views.
 * [wagtail-pdf-view](https://github.com/donhauser/wagtail-pdf) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2025-01-30 - PDF rendering views for the Wagtail CMS.
 * [wagtail-subscriptions](https://github.com/mojnomiya/wagtail_subscriptions) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-31 - Subscription management system for Wagtail with Stripe integration, feature-based access control, and multi-tenant support.
@@ -380,7 +380,7 @@
 * [SecureDrop](https://github.com/freedomofpress/securedrop.org) ⭐ 45 | 🐛 81 | 🌐 Python | 📅 2026-11-25 – Wagtail-powered code for the SecureDrop whistleblower document submission system website.
 * [Wagtail user guide](https://github.com/wagtail/guide) ⭐ 36 | 🐛 81 | 🌐 Python | 📅 2026-11-24 - A website to teach Wagtail to content editors, moderators and administrators.
 * [Bow Valley SPCA Website](https://github.com/nfletton/bvspca) ⭐ 10 | 🐛 9 | 🌐 Python | 📅 2025-05-27 – Wagtail/Django based website of the Bow Valley SPCA.
-* [Torchbox.com on Wagtail](https://github.com/torchbox/torchbox.com) ⭐ 9 | 🐛 17 | 🌐 Python | 📅 2026-11-23 – Torchbox digital agency website.
+* [Torchbox.com on Wagtail](https://github.com/torchbox/torchbox.com) ⭐ 9 | 🐛 16 | 🌐 Python | 📅 2026-11-26 – Torchbox digital agency website.
 * [Penticon Public Library](https://github.com/danlerche/public-library-wagtailCMS) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15 - This is an example public library website using wagtail CMS.
 
 ## Contribute
@@ -393,4 +393,4 @@ This work by [Springload](https://www.springload.co.nz/) and other contributors 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
